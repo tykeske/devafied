@@ -5,8 +5,8 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>uiCookies:Stack &mdash; Free Bootstrap Theme, Free Website Template</title>
-    <meta name="description" content="Free Bootstrap Theme by uicookies.com">
+    <title>Devafied | Services</title>
+    <meta name="description" content="Devafied Development & IT Services">
     <meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template">
     
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:400,500,700">
@@ -153,7 +153,7 @@
 
                 <div class="probootstrap-testimony-wrap text-center">
                   <figure>
-                    <img src="img/person_1.jpg" alt="Free Bootstrap Template by uicookies.com">
+                    <img src="assets/img/person_1.jpg" alt="Free Bootstrap Template by uicookies.com">
                   </figure>
                   <blockquote class="quote">&ldquo;Design must be functional and functionality must be translated into visual aesthetics, without any reliance on gimmicks that have to be explained.&rdquo; <cite class="author">&mdash; Ferdinand A. Porsche <br> <span>Design Lead at AirBNB</span></cite></blockquote>
                 </div>
@@ -162,7 +162,7 @@
               <div class="item">
                 <div class="probootstrap-testimony-wrap text-center">
                   <figure>
-                    <img src="img/person_2.jpg" alt="Free Bootstrap Template by uicookies.com">
+                    <img src="assets/img/person_2.jpg" alt="Free Bootstrap Template by uicookies.com">
                   </figure>
                   <blockquote class="quote">&ldquo;Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while.&rdquo; <cite class="author">&mdash; Steve Jobs <br> <span>Co-Founder Square</span></cite></blockquote>
                 </div>
@@ -170,7 +170,7 @@
               <div class="item">
                 <div class="probootstrap-testimony-wrap text-center">
                   <figure>
-                    <img src="img/person_3.jpg" alt="Free Bootstrap Template by uicookies.com">
+                    <img src="assets/img/person_3.jpg" alt="Free Bootstrap Template by uicookies.com">
                   </figure>
                   <blockquote class="quote">&ldquo;I think design would be better if designers were much more skeptical about its applications. If you believe in the potency of your craft, where you choose to dole it out is not something to take lightly.&rdquo; <cite class="author">&mdash; Frank Chimero <br> <span>Creative Director at Twitter</span></cite></blockquote>
                 </div>
@@ -200,8 +200,8 @@
         <div class="row">
           <div class="col-md-6">
             <div class="probootstrap-footer-widget">
-              <h3>Paragraph</h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+              <h3>Devafied</h3>
+              <p>Contact info contact info contact info</p>
               <ul class="probootstrap-footer-social">
                 <li><a href="#"><i class="icon-twitter"></i></a></li>
                 <li><a href="#"><i class="icon-facebook"></i></a></li>
@@ -253,7 +253,7 @@
         <!-- END row -->
         <div class="row">
           <div class="col-md-12 copyright">
-            <p><small>&copy; 2017 <a href="https://uicookies.com/">uiCookies:Stack</a>. All Rights Reserved. <br> Designed &amp; Developed with <i class="icon icon-heart"></i> by <a href="https://uicookies.com/">uicookies.com</a></small></p>
+            <p><small>&copy; 2017 <a href="https://devafied.com">Devafied</a>. All Rights Reserved.</small></p>
           </div>
         </div>
       </div>

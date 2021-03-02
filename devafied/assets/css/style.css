@@ -18,11 +18,11 @@ html {
 }
 
 body {
-  background: #e5eaef;
-  color: #8b8e94;
-  line-height: 28px;
-  font-size: 14px;
-  font-family: "Poppins", Arial, sans-serif;
+    background: #1F2833;
+    color: #8b8e94;
+    line-height: 28px;
+    font-size: 14px;
+    font-family: "Poppins", Arial, sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -57,7 +57,7 @@ p, ul, ol {
 a {
   -webkit-transition: .3s all;
   transition: .3s all;
-  color: #FF5200;
+  color: #66FCF1;
 }
 
 a:hover, a:focus, a:active {
@@ -221,7 +221,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-navbar .dropdown.open > a, .probootstrap-navbar .dropdown:hover > a, .probootstrap-navbar .dropdown:focus > a, .probootstrap-navbar .dropdown:active > a {
-  border-top: 2px solid #FF5200;
+  border-top: 2px solid #66FCF1;
   -webkit-transition: .3s all;
   transition: .3s all;
 }
@@ -242,16 +242,16 @@ a:hover, a:focus, a:active {
   color: rgba(255, 255, 255, 0.4);
 }
 
-.probootstrap-navbar .dropdown > .dropdown-menu > li a:hover {
-  border-top: none;
-  background: #ffffff;
-  color: #1d1d1d;
-}
+    .probootstrap-navbar .dropdown > .dropdown-menu > li a:hover {
+        border-top: none;
+        background: #C5C6C7;
+        color: #0B0C10;
+    }
 
 .probootstrap-navbar .dropdown > .dropdown-menu > li.open > a, .probootstrap-navbar .dropdown > .dropdown-menu > li:hover > a, .probootstrap-navbar .dropdown > .dropdown-menu > li:focus > a, .probootstrap-navbar .dropdown > .dropdown-menu > li:active > a {
-  border-top: none;
-  color: #1d1d1d;
-  background: #ffffff;
+    border-top: none;
+    color: #0B0C10;
+    background: #C5C6C7;
 }
 
 .probootstrap-navbar .dropdown > .dropdown-menu > li.dropdown-submenu.open > a, .probootstrap-navbar .dropdown > .dropdown-menu > li.dropdown-submenu:hover > a, .probootstrap-navbar .dropdown > .dropdown-menu > li.dropdown-submenu:focus > a, .probootstrap-navbar .dropdown > .dropdown-menu > li.dropdown-submenu:active > a {
@@ -267,16 +267,16 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-navbar .dropdown-menu {
-  border: none;
-  -webkit-box-shadow: none;
-  box-shadow: none;
-  background: #1d1d1d;
-  border-radius: 0;
-  -webkit-box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.15);
-  box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.15);
-  min-width: 200px;
-  white-space: normal;
-  word-wrap: break-word;
+    border: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    background: #0B0C10;
+    border-radius: 0;
+    -webkit-box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.15);
+    box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.15);
+    min-width: 200px;
+    white-space: normal;
+    word-wrap: break-word;
 }
 
 .probootstrap-navbar .dropdown-menu a {
@@ -288,9 +288,9 @@ a:hover, a:focus, a:active {
     width: 100%;
     padding: 10px 15px;
   }
-  .probootstrap-navbar .dropdown-menu a {
-    color: #ffffff;
-  }
+    .probootstrap-navbar .dropdown-menu a {
+        color: #C5C6C7;
+    }
 }
 
 .probootstrap-navbar .navbar-brand {
@@ -345,7 +345,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-navbar .navbar-nav > li > a:hover, .probootstrap-navbar .navbar-nav > li > a:focus, .probootstrap-navbar .navbar-nav > li > a:active {
-  border-top: 2px solid #FF5200;
+    border-top: 2px solid #66FCF1;
 }
 
 @media screen and (max-width: 480px) {
@@ -363,11 +363,11 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-navbar .navbar-nav > li.probootstra-cta-button > a {
-  border-radius: 4px;
-  padding: 10px 20px;
-  margin-top: 30px;
-  background: #FF5200;
-  color: #ffffff;
+    border-radius: 4px;
+    padding: 10px 20px;
+    margin-top: 30px;
+    background: #66FCF1;
+    color: #C5C6C7;
 }
 
 @media screen and (max-width: 768px) {
@@ -404,20 +404,20 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-navbar .navbar-nav > li > .dropdown-menu:before {
-  border: 1px solid #1d1d1d;
-  content: "";
-  position: absolute;
-  top: -20px;
-  left: 40px;
-  border-color: rgba(29, 29, 29, 0);
-  border-bottom-color: #1d1d1d;
-  border-width: 10px;
-  margin-left: -10px;
+    border: 1px solid #0B0C10;
+    content: "";
+    position: absolute;
+    top: -20px;
+    left: 40px;
+    border-color: rgba(29, 29, 29, 0);
+    border-bottom-color: #0B0C10;
+    border-width: 10px;
+    margin-left: -10px;
 }
 
 .probootstrap-navbar .navbar-nav .dropdown li.active > a {
-  color: #ffffff;
-  background: none;
+    color: #C5C6C7;
+    background: none;
 }
 
 .probootstrap-navbar .dropdown-submenu {
@@ -586,7 +586,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-hero.probootstrap-hero-colored {
-  background: #FF5200;
+    background: #66FCF1;
 }
 
 .probootstrap-hero.probootstrap-hero-colored h1 {
@@ -720,19 +720,19 @@ a:hover, a:focus, a:active {
   display: none;
 }
 
-.probootstrap-showcase-nav ul li.active {
-  padding: 20px;
-  background: #ffffff;
-  border-radius: 4px;
-  -webkit-box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.08);
-  box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.08);
-}
+    .probootstrap-showcase-nav ul li.active {
+        padding: 20px;
+        background: #C5C6C7;
+        border-radius: 4px;
+        -webkit-box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.08);
+        box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.08);
+    }
 
-.probootstrap-showcase-nav ul li.active > a {
-  color: #FF5200;
-  padding-left: 0px;
-  display: block;
-}
+    .probootstrap-showcase-nav ul li.active > a {
+        color: #66FCF1;
+        padding-left: 0px;
+        display: block;
+    }
 
 .probootstrap-showcase-nav ul li.active p {
   display: block;
@@ -763,38 +763,38 @@ a:hover, a:focus, a:active {
   line-height: 1.5;
 }
 
-.btn.btn-primary {
-  border: 1px solid #FF5200;
-  background: #FF5200;
-  color: #ffffff;
-}
+    .btn.btn-primary {
+        border: 1px solid #0B0C10;
+        background: #0B0C10;
+        color: #C5C6C7;
+    }
 
 .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
   background: #ff590a;
 }
 
-.btn.btn-primary:focus, .btn.btn-primary:active {
-  outline: none;
-  border: 1px solid #FF5200;
-}
+        .btn.btn-primary:focus, .btn.btn-primary:active {
+            outline: none;
+            border: 1px solid #0B0C10;
+        }
 
-.btn.btn-ghost {
-  background: transparent;
-  border: 1px solid #FF5200;
-  color: #FF5200;
-}
+    .btn.btn-ghost {
+        background: transparent;
+        border: 1px solid #0B0C10;
+        color: #0B0C10;
+    }
 
-.btn.btn-ghost:hover {
-  background: #FF5200;
-  color: #ffffff;
-}
+        .btn.btn-ghost:hover {
+            background: #0B0C10;
+            color: #C5C6C7;
+        }
 
-.btn.btn-ghost:focus, .btn.btn-ghost:active {
-  outline: none;
-  background: transparent;
-  color: #FF5200;
-  border: 1px solid #FF5200;
-}
+        .btn.btn-ghost:focus, .btn.btn-ghost:active {
+            outline: none;
+            background: transparent;
+            color: #0B0C10;
+            border: 1px solid #0B0C10;
+        }
 
 .probootstrap-section {
   padding: 7em 0;
@@ -813,9 +813,9 @@ a:hover, a:focus, a:active {
   border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
 
-.probootstrap-section.probootstrap-bg-white {
-  background: #ffffff;
-}
+    .probootstrap-section.probootstrap-bg-white {
+        background: #C5C6C7;
+    }
 
 @media screen and (max-width: 768px) {
   .probootstrap-section {
@@ -855,18 +855,18 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-cta {
-  padding: 3em 0;
-  background: #FF5200;
-  color: #ffffff;
+    padding: 3em 0;
+    background: #0B0C10;
+    color: #C5C6C7;
 }
 
-.probootstrap-cta h2 {
-  margin: 18px 0 0 0;
-  padding: 0;
-  color: #ffffff;
-  float: left;
-  line-height: 1.5;
-}
+    .probootstrap-cta h2 {
+        margin: 18px 0 0 0;
+        padding: 0;
+        color: #C5C6C7;
+        float: left;
+        line-height: 1.5;
+    }
 
 @media screen and (max-width: 768px) {
   .probootstrap-cta h2 {
@@ -897,9 +897,9 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-cta .btn.btn-ghost {
-  width: 200px;
-  border: 1px solid #ffffff;
-  color: #ffffff;
+    width: 200px;
+    border: 1px solid #C5C6C7;
+    color: #C5C6C7;
 }
 
 @media screen and (max-width: 480px) {
@@ -909,14 +909,14 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-cta .btn.btn-ghost:hover {
-  background: #ffffff;
-  color: #FF5200;
+    background: #C5C6C7;
+    color: #0B0C10;
 }
 
 .probootstrap-footer {
-  padding: 7em 0;
-  background: #1d1d1d;
-  color: rgba(255, 255, 255, 0.3);
+    padding: 7em 0;
+    background: #0B0C10;
+    color: rgba(255, 255, 255, 0.3);
 }
 
 .probootstrap-footer a {
@@ -988,11 +988,11 @@ a:hover, a:focus, a:active {
   margin-bottom: 30px;
 }
 
-.service .icon i {
-  font-size: 40px;
-  color: rgba(0, 0, 0, 0.2);
-  color: #FF5200;
-}
+    .service .icon i {
+        font-size: 40px;
+        color: rgba(0, 0, 0, 0.2);
+        color: #0B0C10;
+    }
 
 .service h3 {
   font-size: 18px;
@@ -1069,11 +1069,11 @@ a:hover, a:focus, a:active {
   -moz-appearance: none;
 }
 
-.probootstrap-form .form-control:active, .probootstrap-form .form-control:focus {
-  -webkit-box-shadow: none;
-  box-shadow: none;
-  border-color: #FF5200;
-}
+    .probootstrap-form .form-control:active, .probootstrap-form .form-control:focus {
+        -webkit-box-shadow: none;
+        box-shadow: none;
+        border-color: #0B0C10;
+    }
 
 .probootstrap-form textarea.form-control {
   height: inherit;
@@ -1202,32 +1202,32 @@ a:hover, a:focus, a:active {
   position: absolute;
 }
 
-.modal .probootstrap-modal-flex .probootstrap-or em {
-  color: #ccc;
-  display: inline-block;
-  background: #ffffff;
-  position: relative;
-  z-index: 2;
-  padding: 0 4px;
-  font-style: normal;
-}
+    .modal .probootstrap-modal-flex .probootstrap-or em {
+        color: #ccc;
+        display: inline-block;
+        background: #C5C6C7;
+        position: relative;
+        z-index: 2;
+        padding: 0 4px;
+        font-style: normal;
+    }
 
 .modal .probootstrap-modal-flex .btn-connect-facebook {
-  background: #3b5998;
-  border-color: #3b5998;
-  color: #ffffff;
+    background: #3b5998;
+    border-color: #3b5998;
+    color: #C5C6C7;
 }
 
 .modal .probootstrap-modal-flex .btn-connect-twitter {
-  background: #1da1f2;
-  border-color: #1da1f2;
-  color: #ffffff;
+    background: #1da1f2;
+    border-color: #1da1f2;
+    color: #C5C6C7;
 }
 
 .modal .probootstrap-modal-flex .btn-connect-google {
-  background: #ea4335;
-  border-color: #ea4335;
-  color: #ffffff;
+    background: #ea4335;
+    border-color: #ea4335;
+    color: #C5C6C7;
 }
 
 .modal .vertical-alignment-helper {
@@ -1397,9 +1397,9 @@ a:hover, a:focus, a:active {
   padding: 7em 0;
 }
 
-.probootstrap-flex-section.probootstrap-bg-white {
-  background: #ffffff;
-}
+    .probootstrap-flex-section.probootstrap-bg-white {
+        background: #C5C6C7;
+    }
 
 .probootstrap-flex {
   display: -webkit-box;
@@ -1443,10 +1443,10 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-flex .probootstrap-flex-item.active, .probootstrap-flex .probootstrap-flex-item:hover, .probootstrap-flex .probootstrap-flex-item:focus {
-  -webkit-box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.08);
-  box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.08);
-  z-index: 2;
-  background: #ffffff;
+    -webkit-box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.08);
+    box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.08);
+    z-index: 2;
+    background: #C5C6C7;
 }
 
 @media screen and (max-width: 768px) {
@@ -1476,16 +1476,16 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-pricing {
-  background: #ffffff;
-  float: left;
-  width: 100%;
-  padding: 20px;
-  text-align: center;
-  position: relative;
-  -webkit-box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.08);
-  box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.08);
-  z-index: 2;
-  margin-top: -200px;
+    background: #C5C6C7;
+    float: left;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    -webkit-box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.08);
+    box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.08);
+    z-index: 2;
+    margin-top: -200px;
 }
 
 @media screen and (max-width: 992px) {
@@ -1514,26 +1514,26 @@ a:hover, a:focus, a:active {
   margin-bottom: 50px;
 }
 
-.probootstrap-pricing h3 > span {
-  margin-top: 10px;
-  display: block;
-  text-transform: none;
-  letter-spacing: normal;
-  color: #FF5200;
-  font-size: 14px;
-}
+    .probootstrap-pricing h3 > span {
+        margin-top: 10px;
+        display: block;
+        text-transform: none;
+        letter-spacing: normal;
+        color: #0B0C10;
+        font-size: 14px;
+    }
 
 .probootstrap-pricing .probootstrap-price-wrap {
   margin-bottom: 50px;
 }
 
-.probootstrap-pricing .probootstrap-price-wrap .probootstrap-price {
-  font-size: 50px;
-  color: #FF5200;
-  font-weight: 100;
-  display: block;
-  margin-bottom: 10px;
-}
+    .probootstrap-pricing .probootstrap-price-wrap .probootstrap-price {
+        font-size: 50px;
+        color: #0B0C10;
+        font-weight: 100;
+        display: block;
+        margin-bottom: 10px;
+    }
 
 .probootstrap-pricing .probootstrap-price-wrap .probootstrap-price-per-month {
   font-size: 13px;
@@ -1813,12 +1813,12 @@ a:hover, a:focus, a:active {
 
 .owl-carousel-fullwidth.fh5co-light-arrow .owl-controls .owl-nav .owl-next i,
 .owl-carousel-fullwidth.fh5co-light-arrow .owl-controls .owl-nav .owl-prev i {
-  color: #ffffff;
+    color: #C5C6C7;
 }
 
 .owl-carousel-fullwidth.fh5co-light-arrow .owl-controls .owl-nav .owl-next:hover i,
 .owl-carousel-fullwidth.fh5co-light-arrow .owl-controls .owl-nav .owl-prev:hover i {
-  color: #ffffff;
+    color: #C5C6C7;
 }
 
 @media screen and (max-width: 768px) {
@@ -1831,17 +1831,17 @@ a:hover, a:focus, a:active {
   background: none !important;
 }
 
-.owl-theme .owl-controls .owl-nav [class*="owl-"] i {
-  font-size: 24px;
-  background: #ff5200 !important;
-  padding: 12px;
-  -webkit-transition: .5s all;
-  transition: .5s all;
-}
+    .owl-theme .owl-controls .owl-nav [class*="owl-"] i {
+        font-size: 24px;
+        background: #0B0C10 !important;
+        padding: 12px;
+        -webkit-transition: .5s all;
+        transition: .5s all;
+    }
 
-.owl-theme .owl-controls .owl-nav [class*="owl-"]:hover i, .owl-theme .owl-controls .owl-nav [class*="owl-"]:focus i {
-  background: #ff5200 !important;
-}
+    .owl-theme .owl-controls .owl-nav [class*="owl-"]:hover i, .owl-theme .owl-controls .owl-nav [class*="owl-"]:focus i {
+        background: #0B0C10 !important;
+    }
 
 .owl-theme .owl-dots {
   position: absolute;

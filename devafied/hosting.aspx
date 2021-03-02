@@ -5,9 +5,9 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>uiCookies:Stack &mdash; Free Bootstrap Theme, Free Website Template</title>
-    <meta name="description" content="Free Bootstrap Theme by uicookies.com">
-    <meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template">
+    <title>Devafied | Hosting</title>
+    <meta name="description" content="Devafied Hosting">
+    <meta name="keywords" content="Website technology, SQL, Database, MySQL, ASP.NET, C#, Devafied">
     
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:400,500,700">
     <link rel="stylesheet" href="assets/css/styles-merged.css">
@@ -32,7 +32,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.aspx" title="uiCookies:Stack">Stack</a>
+          <a class="navbar-brand" href="index.aspx" title="Devafied">Devafied</a>
         </div>
 
         <div id="navbar-collapse" class="navbar-collapse collapse">
@@ -56,13 +56,13 @@
     <section class="flexslider">
       <ul class="slides">
         
-        <li style="background-image: url(img/slider_3.jpg)" class="overlay">
+        <li style="background-image: url(assets/img/slider_3.jpg)" class="overlay">
           <div class="container">
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
                 <div class="probootstrap-slider-text text-center">
                   <h1 class="probootstrap-heading">Hosting</h1>
-                  <p class="probootstrap-subheading">View our awesome work, we love to work with you</p>
+                  <p class="probootstrap-subheading">Loream isper diaoe flaekies goopser</p>
                 </div>
               </div>
             </div>
@@ -71,92 +71,63 @@
       </ul>
     </section>
 
-    <section class="probootstrap-section probootstrap-bg-white ">
-      <div class="container">
-        <div class="row">
+
+      <section class="probootstrap-section">
+          <div class="row">
           <div class="col-md-6 col-md-offset-3 text-center section-heading">
-            <h2>Our Selected Projects</h2>
+            <h2>Our Hosting Services</h2>
           </div>
         </div>
-      </div>
-      <div class="owl-carousel owl-work">
-        <div class="item">
-          <a href="technologies.aspx">
-            <img src="img/work_1.jpg" alt="Free Bootstrap Template by uiCookies.com">
-          </a>
-        </div>
-        <div class="item">
-          <a href="technologies.aspx">
-            <img src="img/work_2.jpg" alt="Free Bootstrap Template by uiCookies.com">
-          </a>
-        </div>
-        <div class="item">
-          <a href="technologies.aspx">
-            <img src="img/work_3.jpg" alt="Free Bootstrap Template by uiCookies.com">
-          </a>
-        </div>
-        <div class="item">
-          <a href="technologies.aspx">
-            <img src="img/work_4.jpg" alt="Free Bootstrap Template by uiCookies.com">
-          </a>
-        </div>  
-        <div class="item">
-          <a href="technologies.aspx">
-            <img src="img/work_5.jpg" alt="Free Bootstrap Template by uiCookies.com">
-          </a>
-        </div>
-        <div class="item">
-          <a href="technologies.aspx">
-            <img src="img/work_6.jpg" alt="Free Bootstrap Template by uiCookies.com">
-          </a>
-        </div>
-        <div class="item">
-          <a href="technologies.aspx">
-            <img src="img/work_7.jpg" alt="Free Bootstrap Template by uiCookies.com">
-          </a>
-        </div>
-      </div>
-    </section>      
-   
-    <section class="probootstrap-section probootstrap-bg-white">
       <div class="container">
         <div class="row">
-          <div class="col-md-6 col-md-offset-3 text-center section-heading">
-            <h2>Testimonial</h2>
-          </div>
-        </div>
-        <!-- END row -->
-        <div class="row">
-          <div class="col-md-12">
-            <div class="owl-carousel owl-carousel-fullwidth">
-              <div class="item">
-
-                <div class="probootstrap-testimony-wrap text-center">
-                  <figure>
-                    <img src="img/person_1.jpg" alt="Free Bootstrap Template by uiCookies.com">
-                  </figure>
-                  <blockquote class="quote">&ldquo;Design must be functional and functionality must be translated into visual aesthetics, without any reliance on gimmicks that have to be explained.&rdquo; <cite class="author">&mdash; Ferdinand A. Porsche <br> <span>Design Lead at AirBNB</span></cite></blockquote>
-                </div>
-
-              </div>
-              <div class="item">
-                <div class="probootstrap-testimony-wrap text-center">
-                  <figure>
-                    <img src="img/person_2.jpg" alt="Free Bootstrap Template by uiCookies.com">
-                  </figure>
-                  <blockquote class="quote">&ldquo;Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while.&rdquo; <cite class="author">&mdash; Steve Jobs <br> <span>Co-Founder Square</span></cite></blockquote>
-                </div>
-              </div>
-              <div class="item">
-                <div class="probootstrap-testimony-wrap text-center">
-                  <figure>
-                    <img src="img/person_3.jpg" alt="Free Bootstrap Template by uiCookies.com">
-                  </figure>
-                  <blockquote class="quote">&ldquo;I think design would be better if designers were much more skeptical about its applications. If you believe in the potency of your craft, where you choose to dole it out is not something to take lightly.&rdquo; <cite class="author">&mdash; Frank Chimero <br> <span>Creative Director at Twitter</span></cite></blockquote>
-                </div>
-              </div>
-              
+          <div class="col-md-6">
+            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
+              <div class="icon"><i class="icon-user-check"></i></div>
+              <div class="text">
+                <h3>Loream Ipsome</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
+              </div>  
             </div>
+            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
+              <div class="icon"><i class="icon-pencil"></i></div>
+              <div class="text">
+                <h3>Loream Ipsomen</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
+              </div>
+            </div>
+            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
+              <div class="icon"><i class="icon-spinner"></i></div>
+              <div class="text">
+                <h3>Loream Ipsomeps</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
+              <div class="icon"><i class="icon-embed2"></i></div>
+              <div class="text">
+                <h3>Loream Ipsomease</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+              </div>  
+            </div>
+            
+            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
+              <div class="icon"><i class="icon-bubbles"></i></div>
+              <div class="text">
+                <h3>Loream Ipsomeck</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+              </div>
+            </div>
+            
+            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
+              <div class="icon"><i class="icon-cloud-check"></i></div>
+              <div class="text">
+                <h3>Loream Ipsomench</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+              </div>
+            </div>
+
           </div>
         </div>
         <!-- END row -->
@@ -181,15 +152,13 @@
         <div class="row">
           <div class="col-md-6">
             <div class="probootstrap-footer-widget">
-              <h3>Paragraph</h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+              <h3>Devafied</h3>
+              <p>Contact info contact info contact info</p>
               <ul class="probootstrap-footer-social">
                 <li><a href="#"><i class="icon-twitter"></i></a></li>
                 <li><a href="#"><i class="icon-facebook"></i></a></li>
                 <li><a href="#"><i class="icon-github"></i></a></li>
-                <li><a href="#"><i class="icon-dribbble"></i></a></li>
                 <li><a href="#"><i class="icon-linkedin"></i></a></li>
-                <li><a href="#"><i class="icon-youtube"></i></a></li>
               </ul>
             </div>
           </div>
@@ -200,8 +169,7 @@
                   <h3>Links</h3>
                   <ul>
                     <li><a href="#">Knowledge Base</a></li>
-                    <li><a href="#">Career</a></li>
-                    <li><a href="#">Press Releases</a></li>
+                    <li><a href="#">Careers</a></li>
                     <li><a href="#">Terms of services</a></li>
                     <li><a href="#">Privacy Policy</a></li>
                   </ul>
@@ -212,8 +180,7 @@
                   <h3>Links</h3>
                   <ul>
                     <li><a href="#">Knowledge Base</a></li>
-                    <li><a href="#">Career</a></li>
-                    <li><a href="#">Press Releases</a></li>
+                    <li><a href="#">Careers</a></li>
                     <li><a href="#">Terms of services</a></li>
                     <li><a href="#">Privacy Policy</a></li>
                   </ul>
@@ -224,8 +191,7 @@
                   <h3>Links</h3>
                   <ul>
                     <li><a href="#">Knowledge Base</a></li>
-                    <li><a href="#">Career</a></li>
-                    <li><a href="#">Press Releases</a></li>
+                    <li><a href="#">Careers</a></li>
                     <li><a href="#">Terms of services</a></li>
                     <li><a href="#">Privacy Policy</a></li>
                   </ul>
@@ -239,7 +205,7 @@
         <!-- END row -->
         <div class="row">
           <div class="col-md-12 copyright">
-            <p><small>&copy; 2017 <a href="https://probootstrap.com/">uiCookies:Stack</a>. All Rights Reserved. <br> Designed &amp; Developed with <i class="icon icon-heart"></i> by <a href="https://probootstrap.com/">uiCookies.com</a></small></p>
+            <p><small>&copy; 2017 <a href="https://devafied.com">Devafied</a>. All Rights Reserved.</small></p>
           </div>
         </div>
       </div>
@@ -253,7 +219,7 @@
           <div class="modal-content">
             <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="icon-cross"></i></button>
             <div class="probootstrap-modal-flex">
-              <div class="probootstrap-modal-figure" style="background-image: url(img/modal_bg.jpg);"></div>
+              <div class="probootstrap-modal-figure" style="background-image: url(assets/img/modal_bg.jpg);"></div>
               <div class="probootstrap-modal-content">
                 <form action="#" class="probootstrap-form">
                   <div class="form-group">
@@ -301,7 +267,7 @@
           <div class="modal-content">
             <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="icon-cross"></i></button>
             <div class="probootstrap-modal-flex">
-              <div class="probootstrap-modal-figure" style="background-image: url(img/modal_bg.jpg);"></div>
+              <div class="probootstrap-modal-figure" style="background-image: url(assets/img/modal_bg.jpg);"></div>
               <div class="probootstrap-modal-content">
                 <form action="#" class="probootstrap-form">
                   <div class="form-group">

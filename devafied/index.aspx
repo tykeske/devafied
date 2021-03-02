@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Devafied | Web & Software Development</title>
-    <meta name="description" content="Web & Software Development">
+    <meta name="description" content="Web & Software Development | IT Services">
     <meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template">
     
     <link href="https://fonts.googleapis.com/css?family=Poppins:400,500,700" rel="stylesheet">
@@ -105,7 +105,7 @@
             <div class="service hover_service text-center">
               <div class="icon"><i class="icon-mobile3"></i></div>
               <div class="text">
-                <h3>Lorem ipsum dolor</h3>
+                <h3>Responsive Design</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
               </div>  
             </div>
@@ -166,53 +166,14 @@
       </div>
     </section>
 
-    <section class="probootstrap-section probootstrap-bg-white ">
-      <div class="owl-carousel owl-work">
-        <div class="item">
-          <a href="portfol
-              io-single.aspx">
-            <img src="assets/img/work_1.jpg" alt="Free Bootstrap Template by uicookies.com">
-          </a>
-        </div>
-        <div class="item">
-          <a href="technologies.aspx">
-            <img src="assets/img/work_2.jpg" alt="Free Bootstrap Template by uicookies.com">
-          </a>
-        </div>
-        <div class="item">
-          <a href="technologies.aspx">
-            <img src="assets/img/work_3.jpg" alt="Free Bootstrap Template by uicookies.com">
-          </a>
-        </div>
-        <div class="item">
-          <a href="technologies.aspx">
-            <img src="assets/img/work_4.jpg" alt="Free Bootstrap Template by uicookies.com">
-          </a>
-        </div>  
-        <div class="item">
-          <a href="technologies.aspx">
-            <img src="assets/img/work_5.jpg" alt="Free Bootstrap Template by uicookies.com">
-          </a>
-        </div>
-        <div class="item">
-          <a href="technologies.aspx">
-            <img src="assets/img/work_6.jpg" alt="Free Bootstrap Template by uicookies.com">
-          </a>
-        </div>
-        <div class="item">
-          <a href="technologies.aspx">
-            <img src="assets/img/work_7.jpg" alt="Free Bootstrap Template by uicookies.com">
-          </a>
-        </div>
-      </div>
-    </section>      
+          
     
     <section class="probootstrap-section proboostrap-clients probootstrap-bg-white probootstrap-zindex-above-showcase">
       <div class="container">
 
         <div class="row">
           <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
-            <h2>Lorem ipsum dolor dial ofeoge rejg</h2>
+            <h2>Responsive Design</h2>
             <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
           </div>
         </div>
@@ -226,48 +187,48 @@
         <div class="row">
           <div class="col-md-6">
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-mobile3"></i></div>
+              <div class="icon"><i class="icon-user-check"></i></div>
               <div class="text">
-                <h3>Lorem ipsum dolor</h3>
+                <h3>Your Vision</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
               </div>  
             </div>
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-presentation"></i></div>
+              <div class="icon"><i class="icon-pencil"></i></div>
               <div class="text">
-                <h3>Lorem ipsum dolor</h3>
+                <h3>Establish a Plan</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
               </div>
             </div>
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-circle-compass"></i></div>
+              <div class="icon"><i class="icon-spinner"></i></div>
               <div class="text">
-                <h3>Lorem ipsum dolor</h3>
+                <h3>Design Mockups</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
               </div>
             </div>
           </div>
           <div class="col-md-6">
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-lightbulb"></i></div>
+              <div class="icon"><i class="icon-embed2"></i></div>
               <div class="text">
-                <h3>Lorem ipsum dolor</h3>
+                <h3>Development Phase</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
               </div>  
             </div>
             
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-magnifying-glass2"></i></div>
+              <div class="icon"><i class="icon-bubbles"></i></div>
               <div class="text">
-                <h3>Lorem ipsum dolor</h3>
+                <h3>Quality Check</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
               </div>
             </div>
             
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-browser2"></i></div>
+              <div class="icon"><i class="icon-cloud-check"></i></div>
               <div class="text">
-                <h3>Lorem ipsum dolor</h3>
+                <h3>Website Launch</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
               </div>
             </div>
@@ -282,7 +243,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
-            <h2>Testimonial</h2>
+            <h2>Testimonials</h2>
           </div>
         </div>
         <!-- END row -->
@@ -295,7 +256,7 @@
                   <figure>
                     <img src="assets/img/person_1.jpg" alt="Free Bootstrap Template by uicookies.com">
                   </figure>
-                  <blockquote class="quote">&ldquo;Design must be functional and functionality must be translated into visual aesthetics, without any reliance on gimmicks that have to be explained.&rdquo; <cite class="author">&mdash; Ferdinand A. Porsche <br> <span>Design Lead at AirBNB</span></cite></blockquote>
+                  <blockquote class="quote">&ldquo;Lorem Epsim nhfIUE Hfe wasfi jela lorel lameli jorfet figiali.&rdquo; <cite class="author">&mdash; John Doe <br> <span>Customer</span></cite></blockquote>
                 </div>
 
               </div>
@@ -304,7 +265,7 @@
                   <figure>
                     <img src="assets/img/person_2.jpg" alt="Free Bootstrap Template by uicookies.com">
                   </figure>
-                  <blockquote class="quote">&ldquo;Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while.&rdquo; <cite class="author">&mdash; Steve Jobs <br> <span>Co-Founder Square</span></cite></blockquote>
+                  <blockquote class="quote">&ldquo;Lorem Epsim nhfIUE Hfe wasfi jela lorel lameli jorfet figiali.&rdquo; <cite class="author">&mdash; Steve Jobs <br> <span>Customer</span></cite></blockquote>
                 </div>
               </div>
               <div class="item">
@@ -312,7 +273,7 @@
                   <figure>
                     <img src="assets/img/person_3.jpg" alt="Free Bootstrap Template by uicookies.com">
                   </figure>
-                  <blockquote class="quote">&ldquo;I think design would be better if designers were much more skeptical about its applications. If you believe in the potency of your craft, where you choose to dole it out is not something to take lightly.&rdquo; <cite class="author">&mdash; Frank Chimero <br> <span>Creative Director at Twitter</span></cite></blockquote>
+                  <blockquote class="quote">&ldquo;Lorem Epsim nhfIUE Hfe wasfi jela lorel lameli jorfet figiali.&rdquo; <cite class="author">&mdash; Da Baby <br> <span>Customer</span></cite></blockquote>
                 </div>
               </div>
               
@@ -329,8 +290,8 @@
         <div class="row">
           <div class="col-md-6">
             <div class="probootstrap-footer-widget">
-              <h3>Paragraph</h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+              <h3>Devafied</h3>
+              <p>Contact info contact info contact info</p>
               <ul class="probootstrap-footer-social">
                 <li><a href="#"><i class="icon-twitter"></i></a></li>
                 <li><a href="#"><i class="icon-facebook"></i></a></li>
@@ -382,7 +343,7 @@
         <!-- END row -->
         <div class="row">
           <div class="col-md-12 copyright">
-            <p><small>&copy; 2017 <a href="https://uicookies.com/">uiCookies:Stack</a>. All Rights Reserved. <br> Designed &amp; Developed with <i class="icon icon-heart"></i> by <a href="https://uicookies.com/">uicookies.com</a></small></p>
+            <p><small>&copy; 2017 <a href="https://devafied.com">Devafied</a>. All Rights Reserved.</small></p>
           </div>
         </div>
       </div>

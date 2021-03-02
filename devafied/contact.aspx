@@ -5,9 +5,9 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>uiCookies:Stack &mdash; Free Bootstrap Theme, Free Website Template</title>
-    <meta name="description" content="Free Bootstrap Theme by uicookies.com">
-    <meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template">
+    <title>Devafied | Contact</title>
+    <meta name="description" content="Contact Devafied">
+    <meta name="keywords" content="Website technology, SQL, Database, MySQL, ASP.NET, C#, Devafied">
     
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:400,500,700">
     <link rel="stylesheet" href="assets/css/styles-merged.css">
@@ -119,8 +119,8 @@
         <div class="row">
           <div class="col-md-6">
             <div class="probootstrap-footer-widget">
-              <h3>Paragraph</h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+              <h3>Devafied</h3>
+              <p>Contact info contact info contact info</p>
               <ul class="probootstrap-footer-social">
                 <li><a href="#"><i class="icon-twitter"></i></a></li>
                 <li><a href="#"><i class="icon-facebook"></i></a></li>
@@ -172,7 +172,7 @@
         <!-- END row -->
         <div class="row">
           <div class="col-md-12 copyright">
-            <p><small>&copy; 2017 <a href="https://uicookies.com/">uiCookies:Stack</a>. All Rights Reserved. <br> Designed &amp; Developed with <i class="icon icon-heart"></i> by <a href="https://uicookies.com/">uicookies.com</a></small></p>
+            <p><small>&copy; 2017 <a href="https://devafied.com">Devafied</a>. All Rights Reserved.</small></p>
           </div>
         </div>
       </div>
