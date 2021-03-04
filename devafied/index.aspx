@@ -195,21 +195,21 @@
               <div class="icon"><i class="icon-user-check"></i></div>
               <div class="text">
                 <h3>Your Vision</h3>
-                <p>The process starts with a "brainstorming phase" that takes place with what you would like to achieve and can be your personal internal purpose of your website. Our priority is to make your website meet your desired needs. </p>
+                <p>The process starts with a "brainstorming phase" that takes place with what you would like to achieve and can be the internal purpose of your website. Our priority is to make your website meet your desired needs. </p>
               </div>  
             </div>
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
               <div class="icon"><i class="icon-pencil"></i></div>
               <div class="text">
                 <h3>Establish a Plan</h3>
-                <p>We devolop and setup a table with details that we need from you to help achieve the final project. We priortize tables and charts in different ways to ensure you understand what our plan is.Then you should be able to see if we need to make any changes and also helps you visualize exceedingly. </p>
+                <p>We develop and set up a table with details that we need from you to help achieve the final project. We prioritize tables and charts in different ways to ensure you understand and visualize what our plan is. Then you should be able to see if we need to make any changes to your website. </p>
               </div>
             </div>
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
               <div class="icon"><i class="icon-spinner"></i></div>
               <div class="text">
                 <h3>Design Mockups</h3>
-                <p>We create drafts for you to see your website in action and give you a better visual representation of what it would look like live. We will contact you with different versions of full-sized structural models of the website to you for optimal understanding.</p>
+                <p>We create drafts to see your website in action and give you a better visual representation of what it would look like live. We will contact you with different versions of full-sized structural models of the website for optimal understanding.</p>
               </div>
             </div>
           </div>
@@ -218,7 +218,7 @@
               <div class="icon"><i class="icon-embed2"></i></div>
               <div class="text">
                 <h3>Development Phase</h3>
-                <p>Our devolopers are trained to design and format your website to your desired needs and preferences. With our six stage delopment process, our company ensures the very best.</p>
+                <p>Our skilled developers design and format your website to your desired needs and preferences. The development phase is the most extensive phase of the development process. Throughout the development phase, we work closely with our customers to ensure satisfaction. </p>
               </div>  
             </div>
             
@@ -226,7 +226,7 @@
               <div class="icon"><i class="icon-bubbles"></i></div>
               <div class="text">
                 <h3>Quality Check</h3>
-                <p>When your website is complete, you will hear from us and go over every aspect of the site and this is your time to pick and choose what you like and what needs to be changed. This is the final phase before we put your website out for the world to see.   </p>
+                <p>When your website is complete, you will hear from us and go over every aspect of the site; this is your time to pick and choose what you like and give critical feedback for what needs to be changed. The quality check is the final phase before we put your website out for the world to see. </p>
               </div>
             </div>
             
@@ -234,7 +234,8 @@
               <div class="icon"><i class="icon-cloud-check"></i></div>
               <div class="text">
                 <h3>Website Launch & Maintenance</h3>
-                <p>After your website is complete, and you're happy with our work; We will launch and maintain your website and all of it's services for the lifetime of the product. You can opt out of this at any time.</p>
+               <p>After your website is complete and you're happy with our work; We will launch and maintain your website. All of our services are monitored and maintained throughout the lifetime of the project. You can opt-out of our post-launch services at any time.</p>
+
               </div>
             </div>
 
