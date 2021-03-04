@@ -190,21 +190,21 @@
               <div class="icon"><i class="icon-user-check"></i></div>
               <div class="text">
                 <h3>Your Vision</h3>
-                <p>Your Vision is an optimal desired state which you would like to achieve and can be your personal interal purpose of existance. Our priority is to make your website to your desired needs. </p>
+                <p>This is where an optimal desired state which you would like to achieve and can be your personal interal purpose of existance. Our priority is to make your website to your desired needs. </p>
               </div>  
             </div>
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
               <div class="icon"><i class="icon-pencil"></i></div>
               <div class="text">
                 <h3>Establish a Plan</h3>
-                <p>Establishing a Plan is when we setup a table with details that we need from you to help achieve the final project. </p>
+                <p>We devolop and setup a table with details that we need from you to help achieve the final project. We like to priortize tables and different ways to make sure you understand what our plan is, to see if we need to make any changes and also helps you visualize exceedingly. </p>
               </div>
             </div>
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
               <div class="icon"><i class="icon-spinner"></i></div>
               <div class="text">
                 <h3>Design Mockups</h3>
-                <p>Design Mockups are drafts for you to see your website in action and give you a better visual of what it would look like live.</p>
+                <p>We create drafts for you to see your website in action and give you a better visual of what it would look like live.</p>
               </div>
             </div>
           </div>
@@ -213,7 +213,7 @@
               <div class="icon"><i class="icon-embed2"></i></div>
               <div class="text">
                 <h3>Development Phase</h3>
-                <p>Devlopment Phase is when we design and format your website to your best features and preferences.</p>
+                <p>Our devolopers are trained to design and format your website to your best features and preferences.</p>
               </div>  
             </div>
             
@@ -221,15 +221,15 @@
               <div class="icon"><i class="icon-bubbles"></i></div>
               <div class="text">
                 <h3>Quality Check</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                <p>When your website is complete, you will hear from us and go over every aspect of the site and this is your time to pick and choose what you like and what needs to be changed. This is the final phase before we put your website out for the world to see.   </p>
               </div>
             </div>
             
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
               <div class="icon"><i class="icon-cloud-check"></i></div>
               <div class="text">
-                <h3>Website Launch</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                <h3>Website Launch & Maintenance</h3>
+                <p>After your website is complete, and you're happy with our work; We will launch and maintain your website and all of it's services for the lifetime of the product. You can opt out of this at any time.</p>
               </div>
             </div>
 
