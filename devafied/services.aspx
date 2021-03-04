@@ -109,28 +109,28 @@
 
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-lightbulb"></i></div>
+              <div class="icon"><i class="icon-question"></i></div>
               <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                <h3>QA & Support</h3>
+                <p>The support system that we have helps us get a better insight into some issues that you might have. Support systems are crucial to websites. One reason for that is that it helps reduce an extensive amount of stress and anxiety. Our support system makes it easier for us so that we can focus on our customer relationships. </p>
               </div>  
             </div>
           </div>
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-magnifying-glass2"></i></div>
+              <div class="icon"><i class="icon-laptop"></i></div>
               <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                <h3>E-Commerce</h3>
+                <p>The E-Commerce network that we use allows customers to electronically buy or sell products on online services over the web. The E-Commerce platform that we use also integrates sales in WooCommerce who has an exceptional reputation for online selling with businesses. </p>
               </div>
             </div>
           </div>
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-browser2"></i></div>
+              <div class="icon"><i class="icon-file-text"></i></div>
               <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                <h3>Word Press</h3>
+                <p>We use this web publishing software to create the best website you could ever think of. Word Press is known for its flexibility and easiness to use. This web publishing software powers over 15% of the top 100 websites in the world. Word Press powers nearly 30% of the web and is known to have an exceedingly high reputation.</p>
               </div>
             </div>
           </div>
