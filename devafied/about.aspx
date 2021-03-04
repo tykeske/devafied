@@ -86,7 +86,7 @@
               <img src="assets/img/person_1.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
               <img src="assets/img/person_1.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
               <div class="probootstrap-team-info">
-                <h3>Jeremy Slater <span class="position">Co-Founder / Tech</span></h3>
+                <h3>Mike Hawk <span class="position">Co-Founder / Tech</span></h3>
               </div>
             </a>
           </div>
@@ -94,7 +94,7 @@
             <a href="#" class="probootstrap-team">
               <img src="assets/img/person_2.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
               <div class="probootstrap-team-info">
-                <h3>James Butterly <span class="position">Co-Founder / Creative</span></h3>
+                <h3>Lil Baby <span class="position">Co-Founder / Creative</span></h3>
               </div>
             </a>
           </div>
@@ -105,7 +105,7 @@
             <a href="#" class="probootstrap-team">
               <img src="assets/img/person_3.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
               <div class="probootstrap-team-info">
-                <h3>Matthew Smith <span class="position">Developer</span></h3>
+                <h3>Will Smith <span class="position">Developer</span></h3>
               </div>
             </a>
           </div>
@@ -113,7 +113,7 @@
             <a href="#" class="probootstrap-team">
               <img src="assets/img/person_4.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
               <div class="probootstrap-team-info">
-                <h3>Ivan Dubovtsev <span class="position">Designer</span></h3>
+                <h3>Don Joe <span class="position">Designer</span></h3>
                 
               </div>
             </a>
@@ -125,7 +125,7 @@
             <a href="#" class="probootstrap-team">
               <img src="assets/img/person_2.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
               <div class="probootstrap-team-info">
-                <h3>James Butterly <span class="position">Co-Founder / Creative</span></h3>
+                <h3>Kid Cudi <span class="position">Co-Founder / Creative</span></h3>
               </div>
             </a>
           </div>
@@ -133,7 +133,7 @@
             <a href="#" class="probootstrap-team">
               <img src="assets/img/person_1.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
               <div class="probootstrap-team-info">
-                <h3>Jeremy Slater <span class="position">Co-Founder / Tech</span></h3>
+                <h3>Da Baby <span class="position">Co-Founder / Tech</span></h3>
               </div>
             </a>
           </div>
@@ -144,7 +144,7 @@
             <a href="#" class="probootstrap-team">
               <img src="assets/img/person_4.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
               <div class="probootstrap-team-info">
-                <h3>Ivan Dubovtsev <span class="position">Designer</span></h3>
+                <h3>Don Donnie <span class="position">Designer</span></h3>
                 
               </div>
             </a>
@@ -153,7 +153,7 @@
             <a href="#" class="probootstrap-team">
               <img src="assets/img/person_3.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
               <div class="probootstrap-team-info">
-                <h3>Matthew Smith <span class="position">Developer</span></h3>
+                <h3>John Doe <span class="position">Developer</span></h3>
               </div>
             </a>
           </div>
@@ -173,59 +173,11 @@
           </div>
         </div>
         <!-- END row -->
-        <div class="row">
-          <div class="col-md-3 col-sm-6 col-xs-6 text-center client-logo probootstrap-animate" data-animate-effect="fadeIn">
-            <img src="assets/img/client_1.png" class="img-responsive" alt="Free Bootstrap Template by uicookies.com">
-          </div>
-          <div class="col-md-3 col-sm-6 col-xs-6 text-center client-logo probootstrap-animate" data-animate-effect="fadeIn">
-            <img src="assets/img/client_2.png" class="img-responsive" alt="Free Bootstrap Template by uicookies.com">
-          </div>
-          <div class="clearfix visible-sm-block visible-xs-block"></div>
-          <div class="col-md-3 col-sm-6 col-xs-6 text-center client-logo probootstrap-animate" data-animate-effect="fadeIn">
-            <img src="assets/img/client_3.png" class="img-responsive" alt="Free Bootstrap Template by uicookies.com">
-          </div>
-          <div class="col-md-3 col-sm-6 col-xs-6 text-center client-logo probootstrap-animate" data-animate-effect="fadeIn">
-            <img src="assets/img/client_4.png" class="img-responsive" alt="Free Bootstrap Template by uicookies.com">
-          </div>          
-          
-        </div>
+        
       </div>
     </section>
 
-    <section class="probootstrap-section probootstrap-bg-white probootstrap-border-top">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
-            <h2>Our Products</h2>
-            <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-          </div>
-        </div>
-        <!-- END row -->
-        <div class="row">
-          <div class="col-md-12 probootstrap-animate"  data-animate-effect="fadeIn">
-
-            <div class="owl-carousel owl-carousel-fullwidth border-rounded">
-              <div class="item">
-                <img src="assets/img/person_1.jpg" alt="Free HTML5 Bootstrap Template by GetTemplates.co">
-              </div>
-              <div class="item">
-                <img src="assets/img/person_2.jpg" alt="Free HTML5 Bootstrap Template by GetTemplates.co">
-              </div>
-              <div class="item">
-                <img src="assets/img/person_3.jpg" alt="Free HTML5 Bootstrap Template by GetTemplates.co">
-              </div>
-              <div class="item">
-                <img src="assets/img/person_4.jpg" alt="Free HTML5 Bootstrap Template by GetTemplates.co">
-              </div>
-            </div>
-
-          </div>
-
-          
-        </div>
-        <!-- END row -->
-      </div>
-    </section>
+    
 
     <section class="probootstrap-section">
       <div class="container">
@@ -387,7 +339,7 @@
         <!-- END row -->
         <div class="row">
           <div class="col-md-12 copyright">
-            <p><small>&copy; 2017 <a href="https://devafied.com">Devafied</a>. All Rights Reserved.</small></p>
+            <p><small>&copy; 2021 <a href="https://devafied.com">Devafied</a>. All Rights Reserved.</small></p>
           </div>
         </div>
       </div>
