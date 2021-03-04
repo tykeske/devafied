@@ -184,27 +184,32 @@
 
     <section class="probootstrap-section">
       <div class="container">
+          <div class="row">
+          <div class="col-md-6 col-md-offset-3 text-center section-heading">
+            <h2>Development Process</h2>
+          </div>
+        </div>
         <div class="row">
           <div class="col-md-6">
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
               <div class="icon"><i class="icon-user-check"></i></div>
               <div class="text">
                 <h3>Your Vision</h3>
-                <p>This is where an optimal desired state which you would like to achieve and can be your personal interal purpose of existance. Our priority is to make your website to your desired needs. </p>
+                <p>The process starts with a "brainstorming phase" that takes place with what you would like to achieve and can be your personal internal purpose of your website. Our priority is to make your website meet your desired needs. </p>
               </div>  
             </div>
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
               <div class="icon"><i class="icon-pencil"></i></div>
               <div class="text">
                 <h3>Establish a Plan</h3>
-                <p>We devolop and setup a table with details that we need from you to help achieve the final project. We like to priortize tables and different ways to make sure you understand what our plan is, to see if we need to make any changes and also helps you visualize exceedingly. </p>
+                <p>We devolop and setup a table with details that we need from you to help achieve the final project. We priortize tables and charts in different ways to ensure you understand what our plan is.Then you should be able to see if we need to make any changes and also helps you visualize exceedingly. </p>
               </div>
             </div>
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
               <div class="icon"><i class="icon-spinner"></i></div>
               <div class="text">
                 <h3>Design Mockups</h3>
-                <p>We create drafts for you to see your website in action and give you a better visual of what it would look like live.</p>
+                <p>We create drafts for you to see your website in action and give you a better visual representation of what it would look like live. We will contact you with different versions of full-sized structural models of the website to you for optimal understanding.</p>
               </div>
             </div>
           </div>
@@ -213,7 +218,7 @@
               <div class="icon"><i class="icon-embed2"></i></div>
               <div class="text">
                 <h3>Development Phase</h3>
-                <p>Our devolopers are trained to design and format your website to your best features and preferences.</p>
+                <p>Our devolopers are trained to design and format your website to your desired needs and preferences. With our six stage delopment process, our company ensures the very best.</p>
               </div>  
             </div>
             
