@@ -61,7 +61,7 @@
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
                 <div class="probootstrap-slider-text text-center">
-                  <h1 class="probootstrap-heading">Lorem ipsum dolor</h1>
+                  <h1 class="probootstrap-heading">Web Design</h1>
                 </div>
               </div>
             </div>
@@ -72,7 +72,7 @@
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
                 <div class="probootstrap-slider-text text-center">
-                  <h1 class="probootstrap-heading">Lorem ipsum dolor</h1>
+                  <h1 class="probootstrap-heading">Hosting</h1>
                 </div>
               </div>
             </div>
@@ -84,7 +84,7 @@
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
                 <div class="probootstrap-slider-text text-center">
-                  <h1 class="probootstrap-heading">Lorem ipsum dolor</h1>
+                  <h1 class="probootstrap-heading">Product Maintenance</h1>
                 </div>
               </div>
             </div>
@@ -234,7 +234,7 @@
               <div class="icon"><i class="icon-cloud-check"></i></div>
               <div class="text">
                 <h3>Website Launch & Maintenance</h3>
-               <p>After your website is complete and you're happy with our work; We will launch and maintain your website. All of our services are monitored and maintained throughout the lifetime of the project. You can opt-out of our post-launch services at any time.</p>
+               <p>After your website is complete and you're happy with our work; We will launch and maintain your website. All of our services are monitored and maintained throughout the lifetime of the project. You can opt-out of our post-launch services at any time.F</p>
 
               </div>
             </div>
