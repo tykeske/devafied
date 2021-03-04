@@ -190,21 +190,21 @@
               <div class="icon"><i class="icon-user-check"></i></div>
               <div class="text">
                 <h3>Your Vision</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
+                <p>Your Vision is an optimal desired state which you would like to achieve and can be your personal interal purpose of existance. Our priority is to make your website to your desired needs. </p>
               </div>  
             </div>
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
               <div class="icon"><i class="icon-pencil"></i></div>
               <div class="text">
                 <h3>Establish a Plan</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
+                <p>Establishing a Plan is when we setup a table with details that we need from you to help achieve the final project. </p>
               </div>
             </div>
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
               <div class="icon"><i class="icon-spinner"></i></div>
               <div class="text">
                 <h3>Design Mockups</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
+                <p>Design Mockups are drafts for you to see your website in action and give you a better visual of what it would look like live.</p>
               </div>
             </div>
           </div>
@@ -213,7 +213,7 @@
               <div class="icon"><i class="icon-embed2"></i></div>
               <div class="text">
                 <h3>Development Phase</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                <p>Devlopment Phase is when we design and format your website to your best features and preferences.</p>
               </div>  
             </div>
             
