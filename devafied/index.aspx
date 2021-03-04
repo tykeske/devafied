@@ -185,6 +185,10 @@
     <section class="probootstrap-section">
       <div class="container">
         <div class="row">
+          <div class="col-md-6 col-md-offset-3 text-center section-heading">
+            <h2>Development Process</h2>
+          </div>
+        </div>
           <div class="col-md-6">
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
               <div class="icon"><i class="icon-user-check"></i></div>
@@ -236,7 +240,6 @@
           </div>
         </div>
         <!-- END row -->
-      </div>
     </section>
 
     <section class="probootstrap-section probootstrap-border-top probootstrap-bg-white">

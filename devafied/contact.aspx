@@ -2,7 +2,7 @@
 
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+  <head runat="server">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Devafied | Contact</title>
@@ -19,7 +19,7 @@
     <![endif]-->
   </head>
   <body>
-    
+
     <!-- Fixed navbar -->
     
     
@@ -75,26 +75,30 @@
       <div class="container">
         <div class="row">
           <div class="col-md-5 probootstrap-animate" data-animate-effect="fadeIn">
-            <h2>Drop us a line</h2>
-            <form action="#" method="post" class="probootstrap-form">
+            <h2>Submit an inquiry</h2>
+            <form action="#" method="post" class="probootstrap-form" id="form1" runat="server">
               <div class="form-group">
-                <label for="name">Full Name</label>
-                <input type="text" class="form-control" id="name" name="name">
+                <label for="name">First Name</label>
+                <asp:TextBox type="name" ID="firstNameTextBox" class="form-control" required="required" placeholder="First" runat="server"></asp:TextBox>
+              </div>
+                <div class="form-group">
+                <label for="name">Last Name</label>
+                <asp:TextBox type="name" ID="lastNameTextBox" class="form-control" required="required" placeholder="Last" runat="server"></asp:TextBox>
               </div>
               <div class="form-group">
-                <label for="email">Email</label>
-                <input type="email" class="form-control" id="email" name="email">
+                <label for="email">Email Address</label>
+                 <asp:TextBox type="email" ID="emailTextBox" class="form-control" required="required" placeholder="Email" runat="server"></asp:TextBox>
               </div>
               <div class="form-group">
-                <label for="subject">Subject</label>
-                <input type="text" class="form-control" id="subject" name="subject">
+                <label for="subject">Message Subject</label>
+                <asp:TextBox type="name" ID="subjectTextBox" class="form-control" required="required" placeholder="Subject" runat="server"></asp:TextBox>
               </div>
               <div class="form-group">
                 <label for="message">Message</label>
-                <textarea cols="30" rows="10" class="form-control" id="message" name="message"></textarea>
+                <asp:TextBox type="message" ID="messageTextBox" class="form-control" required="required" placeholder="Message" runat="server"></asp:TextBox>
               </div>
               <div class="form-group">
-                <input type="submit" class="btn btn-primary btn-lg" id="submit" name="submit" value="Submit Form">
+               <asp:Button type="submit" class="btn btn-primary btn-lg" ID="submitButton1" value="Submit Here" runat="server" Text="Submit Here" OnClick="submitButton_Click" />
               </div>
             </form>
           </div>
@@ -105,8 +109,9 @@
             <h4>USA</h4>
             <ul class="probootstrap-contact-info">
               <li><i class="icon-pin"></i> <span>1969 Apple Street, Portland, OR 98989</span></li>
-              <li><i class="icon-email"></i><span>info@devafied.com</span></li>
-              <li><i class="icon-phone"></i><span>+123-456-7890</span></li>
+              <li><i class="icon-email"></i><span>devafiedconsultants@gmail.com</span></li>
+              <li><i class="icon-phone"></i><span>+503-773-8637</span></li>
+              <li><i class="icon-phone"></i><span>+‪803-619-0143‬</span></li>
             </ul>
           </div>
         </div>
@@ -234,7 +239,7 @@
           <div class="modal-content">
             <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="icon-cross"></i></button>
             <div class="probootstrap-modal-flex">
-              <div class="probootstrap-modal-figure" style="background-image: url(img/modal_bg.jpg);"></div>
+              <div class="probootstrap-modal-figure" style="background-image: url(assets/img/modal_bg.jpg);"></div>
               <div class="probootstrap-modal-content">
                 <form action="#" class="probootstrap-form">
                   <div class="form-group">
@@ -281,6 +286,6 @@
 
     <script src="assets/js/scripts.min.js"></script>
     <script src="assets/js/custom.min.js"></script>
-
+</form>
   </body>
 </html>
