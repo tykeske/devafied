@@ -103,7 +103,7 @@
         <div class="row probootstrap-gutter60">
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-mobile3"></i></div>
+              <div class="icon"><i class="icon-pencil"></i></div>
               <div class="text">
                 <h3>Responsive Design</h3>
                 <p>Our developers include mobile compatibility with your website for free. The websites that we create are always mobile-friendly because they are more easily accessible. Most users nowadays are mobile so, it's a great way to share information. </p>
@@ -112,7 +112,7 @@
           </div>
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-presentation"></i></div>
+              <div class="icon"><i class="icon-database"></i></div>
               <div class="text">
                 <h3>Database Services</h3>
                 <p>We ensure that our databases are frequently monitored. The databases are safe and secure through our encryption techniques. The development team uses Microsoft SQL Server Management studio to host and manage the database for our customers. </p>
@@ -121,7 +121,7 @@
           </div>
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-circle-compass"></i></div>
+              <div class="icon"><i class="icon-hammer"></i></div>
               <div class="text">
                 <h3>Maintenance</h3>
                 <p>Our maintenance team ensures that your website will frequently be checked for any issues. Why is maintenance crucial for websites? Maintenance is crucial for websites to ensure that everything is up to date and running at its best capability. It also increases the traffic that comes through the website daily as well. </p>
@@ -142,13 +142,6 @@
     
     <section class="probootstrap-section proboostrap-clients probootstrap-bg-white probootstrap-zindex-above-showcase">
       <div class="container">
-
-        <div class="row">
-          <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
-            <h2>Responsive Design</h2>
-            <p class="lead"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at. </p>
-          </div>
-        </div>
         <!-- END row -->
       </div>
     </section>
