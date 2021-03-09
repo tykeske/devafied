@@ -80,8 +80,8 @@
         <div class="row mb50">
           <div class="col-md-4"><h1 class="mt0">The Technologies We Use</h1></div>
           <div class="col-md-7 col-md-push-1">
-            <p>The technologies we use are a variety of different things. We mainly focus the projects in visual studio code asp.net that has a variety of various coding languages. We use a combination of HTML(HyperText Markup Language), CSS(Cascading Style Sheets), JavaScript, and C#(C Sharp). Depending on if you want a static website, then we will use HMTL and CSS. If you would like a Dynamic website, then we would use ASP and Javascript.</p>
-            <p>We use Microsoft SQL Server Management Studio Software to connect to databases that we create specifically for you. This software takes information, stores, organizes, and processes it so users can easily access information. The reason we use SQL Server Management Studio is for multiple reasons. This software ensures top-tier security, easy management; and is incredibly accurate with the optimization aspect of storing data.</p>
+            <p>Our team uses a variety of different technologies. We mainly build our projects with Visual Studio ASP.NET that has a variety of various coding languages. We use a combination of HTML(HyperText Markup Language), CSS(Cascading Style Sheets), JavaScript, and C#(C Sharp). Depending on if you want a static website, then we will use HMTL and CSS. If you would like a Dynamic website, then we would use ASP and Javascript.</p>
+            <p>We use Microsoft SQL Server Management Studio software to connect to databases that we create specifically for you. This software takes information, stores, organizes, and processes it so users can easily access information. We chose Microsoft SQL Server Management Studio for numerous reasons. This software ensures top-tier security, easy management; and is incredibly accurate with the optimization aspect of storing data.</p>
           </div>
         </div>
         <!-- END row -->
