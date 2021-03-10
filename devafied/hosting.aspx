@@ -147,13 +147,15 @@
       </div>
     </section>
     
-    <footer class="probootstrap-footer">
+<footer class="probootstrap-footer">
       <div class="container">
         <div class="row">
           <div class="col-md-6">
             <div class="probootstrap-footer-widget">
               <h3>Devafied</h3>
-              <p>Contact info contact info contact info</p>
+              <a href="tel:5037738637">(503)-773-8637</a>
+                <br />
+              <a href="tel:8036190143">(803)-619-0143</a>
               <ul class="probootstrap-footer-social">
                 <li><a href="#"><i class="icon-twitter"></i></a></li>
                 <li><a href="#"><i class="icon-facebook"></i></a></li>
@@ -166,41 +168,39 @@
             <div class="row">
               <div class="col-md-4">
                 <div class="probootstrap-footer-widget">
-                  <h3>Links</h3>
+                  <h3></h3>
                   <ul>
-                    <li><a href="#">Knowledge Base</a></li>
-                    <li><a href="#">Careers</a></li>
-                    <li><a href="#">Terms of services</a></li>
-                    <li><a href="#">Privacy Policy</a></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
                   </ul>
                 </div>
               </div>
               <div class="col-md-4">
                 <div class="probootstrap-footer-widget">
-                  <h3>Links</h3>
+                  <h3></h3>
                   <ul>
-                    <li><a href="#">Knowledge Base</a></li>
-                    <li><a href="#">Careers</a></li>
-                    <li><a href="#">Terms of services</a></li>
-                    <li><a href="#">Privacy Policy</a></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
                   </ul>
                 </div>
               </div>
-              <div class="col-md-4">
+                <div class="col-md-4">
                 <div class="probootstrap-footer-widget">
                   <h3>Links</h3>
                   <ul>
-                    <li><a href="#">Knowledge Base</a></li>
-                    <li><a href="#">Careers</a></li>
-                    <li><a href="#">Terms of services</a></li>
-                    <li><a href="#">Privacy Policy</a></li>
+                    <li><a href="index.aspx">Home</a></li>
+                    <li><a href="contact.aspx">Contact</a></li>
+                    <li><a href="termsofservice.aspx">Terms of services</a></li>
+                    <li><a href="privacy.aspx">Privacy Policy</a></li>
                   </ul>
                 </div>
               </div>
             </div>
           </div>
-          
-          
         </div>
         <!-- END row -->
         <div class="row">
@@ -210,110 +210,9 @@
         </div>
       </div>
     </footer>
-    
-  
-    <!-- Modal login -->
-    <div class="modal fadeInUp probootstrap-animated" id="loginModal" tabindex="-1" role="dialog" aria-labelledby="loginModalLabel" aria-hidden="true">
-      <div class="vertical-alignment-helper">
-        <div class="modal-dialog modal-md vertical-align-center">
-          <div class="modal-content">
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="icon-cross"></i></button>
-            <div class="probootstrap-modal-flex">
-              <div class="probootstrap-modal-figure" style="background-image: url(assets/img/modal_bg.jpg);"></div>
-              <div class="probootstrap-modal-content">
-                <form action="#" class="probootstrap-form">
-                  <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Email">
-                  </div> 
-                  <div class="form-group">
-                    <input type="password" class="form-control" placeholder="Password">
-                  </div> 
-                  <div class="form-group clearfix mb40">
-                    <label for="remember" class="probootstrap-remember"><input type="checkbox" id="remember"> Remember Me</label>
-                    <a href="#" class="probootstrap-forgot">Forgot Password?</a>
-                  </div>
-                  <div class="form-group text-left">
-                    <div class="row">
-                      <div class="col-md-6">
-                        <input type="submit" class="btn btn-primary btn-block" value="Sign In">
-                      </div>
-                    </div>
-                  </div>
-                  <div class="form-group probootstrap-or">
-                    <span><em>or</em></span>
-                  </div>
-                  <div class="form-group">
-                    <div class="row">
-                      <div class="col-md-12">
-                        <button class="btn btn-primary btn-ghost btn-block btn-connect-facebook"><span>connect with</span> Facebook</button>
-                        <button class="btn btn-primary btn-ghost btn-block btn-connect-google"><span>connect with</span> Google</button>
-                        <button class="btn btn-primary btn-ghost btn-block btn-connect-twitter"><span>connect with</span> Twitter</button>
-                      </div>
-                    </div>
-                  </div>
-                </form>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- END modal login -->
-    
-    <!-- Modal signup -->
-    <div class="modal fadeInUp probootstrap-animated" id="signupModal" tabindex="-1" role="dialog" aria-labelledby="signupModalLabel" aria-hidden="true">
-      <div class="vertical-alignment-helper">
-        <div class="modal-dialog modal-md vertical-align-center">
-          <div class="modal-content">
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="icon-cross"></i></button>
-            <div class="probootstrap-modal-flex">
-              <div class="probootstrap-modal-figure" style="background-image: url(assets/img/modal_bg.jpg);"></div>
-              <div class="probootstrap-modal-content">
-                <form action="#" class="probootstrap-form">
-                  <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Email">
-                  </div> 
-                  <div class="form-group">
-                    <input type="password" class="form-control" placeholder="Password">
-                  </div> 
-                  <div class="form-group">
-                    <input type="password" class="form-control" placeholder="Re-type Password">
-                  </div> 
-                  <div class="form-group clearfix mb40">
-                    <label for="remember" class="probootstrap-remember"><input type="checkbox" id="remember"> Remember Me</label>
-                    <a href="#" class="probootstrap-forgot">Forgot Password?</a>
-                  </div>
-                  <div class="form-group text-left">
-                    <div class="row">
-                      <div class="col-md-6">
-                        <input type="submit" class="btn btn-primary btn-block" value="Sign Up">
-                      </div>
-                    </div>
-                    
-                  </div>
-                  <div class="form-group probootstrap-or">
-                    <span><em>or</em></span>
-                  </div>
-                  <div class="form-group">
-                    <div class="row">
-                      <div class="col-md-12">
-                        <button class="btn btn-primary btn-ghost btn-block btn-connect-facebook"><span>connect with</span> Facebook</button>
-                        <button class="btn btn-primary btn-ghost btn-block btn-connect-google"><span>connect with</span> Google</button>
-                        <button class="btn btn-primary btn-ghost btn-block btn-connect-twitter"><span>connect with</span> Twitter</button>
-                      </div>
-                    </div>
-                  </div>
-                </form>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- END modal signup -->
-
     <script src="assets/js/scripts.min.js"></script>
     <script src="assets/js/custom.min.js"></script>
-
+</form>
   </body>
 </html>
+

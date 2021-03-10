@@ -53,7 +53,7 @@
    background:url(../img/devLogo1.png) left center no-repeat;top:8px;position:relative;width:160px;height:43px;text-indent:-999999px}
    @media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min--moz-device-pixel-ratio:2),only screen and 
    (min-device-pixel-ratio:2),only screen and (min-resolution:192dpi),only screen and (min-resolution:2dppx){.probootstrap-navbar 
-   .navbar-brand{position:relative;width:160px;height:43px;background:url(../img/devafiedLogo1.png) left center no-repeat;background-size:cover}}.probootstrap-navbar 
+   .navbar-brand{position:relative;width:160px;height:43px;background:url(../img/devLogo1.png) left center no-repeat;background-size:cover}}.probootstrap-navbar 
    .navbar-nav>li>a{color:#C5C6C7;font-size:14px;position:relative;border-top:2px solid transparent}@media screen and (max-width:768px){.probootstrap-navbar 
    .navbar-brand{top:2px!important}.probootstrap-navbar .navbar-nav>li>a{padding-top:8px;padding-bottom:8px}}.probootstrap-navbar 
    .navbar-nav>li>a:hover{color:rgba(255,255,255,.7)}.probootstrap-navbar .navbar-nav>li>a:active,.probootstrap-navbar .navbar-nav>li>a:focus,.probootstrap-navbar 

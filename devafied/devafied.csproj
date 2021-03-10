@@ -79,6 +79,8 @@
     <Content Include="assets\css\vendor\icomoon.css" />
     <Content Include="assets\css\vendor\owl.carousel.min.css" />
     <Content Include="assets\css\vendor\owl.theme.default.min.css" />
+    <Content Include="assets\fonts\font-awesome.css" />
+    <Content Include="assets\fonts\font-awesome.min.css" />
     <Content Include="assets\fonts\icomoon demo\demo-files\demo.css" />
     <Content Include="assets\fonts\icomoon demo\demo-files\demo.js" />
     <Content Include="assets\fonts\icomoon demo\demo.html" />
@@ -135,8 +137,10 @@
     <Content Include="contact.aspx" />
     <Content Include="index.aspx" />
     <Content Include="hosting.aspx" />
+    <Content Include="privacy.aspx" />
     <Content Include="technologies.aspx" />
     <Content Include="services.aspx" />
+    <Content Include="termsofservice.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -168,6 +172,13 @@
     <Compile Include="hosting.aspx.designer.cs">
       <DependentUpon>hosting.aspx</DependentUpon>
     </Compile>
+    <Compile Include="privacy.aspx.cs">
+      <DependentUpon>privacy.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="privacy.aspx.designer.cs">
+      <DependentUpon>privacy.aspx</DependentUpon>
+    </Compile>
     <Compile Include="technologies.aspx.cs">
       <DependentUpon>technologies.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -182,6 +193,13 @@
     </Compile>
     <Compile Include="services.aspx.designer.cs">
       <DependentUpon>services.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="termsofservice.aspx.cs">
+      <DependentUpon>termsofservice.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="termsofservice.aspx.designer.cs">
+      <DependentUpon>termsofservice.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
