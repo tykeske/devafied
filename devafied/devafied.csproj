@@ -86,6 +86,15 @@
     <Content Include="assets\fonts\icomoon demo\Read Me.txt" />
     <Content Include="assets\fonts\icomoon demo\style.css" />
     <Content Include="assets\fonts\icomoon\icomoon.svg" />
+    <Content Include="assets\img\1.jpg" />
+    <Content Include="assets\img\123.png" />
+    <Content Include="assets\img\1234.jpg" />
+    <Content Include="assets\img\12345.jpg" />
+    <Content Include="assets\img\2.jpg" />
+    <Content Include="assets\img\3.jpg" />
+    <Content Include="assets\img\45.jpg" />
+    <Content Include="assets\img\78.jpg" />
+    <Content Include="assets\img\89.jpg" />
     <Content Include="assets\img\client_1.png" />
     <Content Include="assets\img\client_2.png" />
     <Content Include="assets\img\client_3.png" />
