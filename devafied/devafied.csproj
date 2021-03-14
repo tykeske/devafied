@@ -105,6 +105,7 @@
     <Content Include="assets\img\devLogo1.png" />
     <Content Include="assets\img\img_showcase_1.jpg" />
     <Content Include="assets\img\img_showcase_2.jpg" />
+    <Content Include="assets\img\landon1.jpg" />
     <Content Include="assets\img\laptop_1.jpg" />
     <Content Include="assets\img\logo%402x.png" />
     <Content Include="assets\img\logo.png" />
@@ -116,6 +117,7 @@
     <Content Include="assets\img\slider_1.jpg" />
     <Content Include="assets\img\slider_2.jpg" />
     <Content Include="assets\img\slider_3.jpg" />
+    <Content Include="assets\img\tyler.jpg" />
     <Content Include="assets\img\work_1.jpg" />
     <Content Include="assets\img\work_2.jpg" />
     <Content Include="assets\img\work_3.jpg" />
