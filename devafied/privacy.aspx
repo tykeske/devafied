@@ -58,7 +58,7 @@
     <section class="flexslider">
       <ul class="slides">
         
-        <li style="background-image: url(assets/img/slider_3.jpg)" class="overlay">
+        <li style="background-image: url(assets/img/tAnPBack.jpg)" class="overlay">
           <div class="container">
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
@@ -187,7 +187,7 @@
                   <ul>
                     <li><a href="index.aspx">Home</a></li>
                     <li><a href="contact.aspx">Contact</a></li>
-                    <li><a href="termsofservice.aspx">Terms of services</a></li>
+                    <li><a href="termsofservice.aspx">Terms & Conditions</a></li>
                     <li><a href="privacy.aspx">Privacy Policy</a></li>
                   </ul>
                 </div>

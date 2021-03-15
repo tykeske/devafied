@@ -98,10 +98,12 @@
     <Content Include="assets\img\devLogo1.png" />
     <Content Include="assets\img\img_showcase_1.jpg" />
     <Content Include="assets\img\img_showcase_2.jpg" />
+    <Content Include="assets\img\jerry.png" />
     <Content Include="assets\img\laptop_1.jpg" />
     <Content Include="assets\img\logo%402x.png" />
     <Content Include="assets\img\logo.png" />
     <Content Include="assets\img\modal_bg.jpg" />
+    <Content Include="assets\img\nana.png" />
     <Content Include="assets\img\person_1.jpg" />
     <Content Include="assets\img\person_2.jpg" />
     <Content Include="assets\img\person_3.jpg" />
@@ -109,6 +111,7 @@
     <Content Include="assets\img\slider_1.jpg" />
     <Content Include="assets\img\slider_2.jpg" />
     <Content Include="assets\img\slider_3.jpg" />
+    <Content Include="assets\img\tAnPBack.jpg" />
     <Content Include="assets\img\work_1.jpg" />
     <Content Include="assets\img\work_2.jpg" />
     <Content Include="assets\img\work_3.jpg" />

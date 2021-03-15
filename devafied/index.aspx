@@ -33,7 +33,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.aspx" title="uiCookies:Stack">Devafied</a>
+          <a class="navbar-brand" href="index.aspx" title="Devafied">Devafied</a>
         </div>
 
         <div id="navbar-collapse" class="navbar-collapse collapse">
@@ -257,24 +257,24 @@
 
                 <div class="probootstrap-testimony-wrap text-center">
                   <figure>
-                    <img src="assets/img/person_1.jpg" alt="Free Bootstrap Template by uicookies.com">
+                    <img src="assets/img/jerry.png">
                   </figure>
-                  <blockquote class="quote">&ldquo;Lorem Epsim nhfIUE Hfe wasfi jela lorel lameli jorfet figiali.&rdquo; <cite class="author">&mdash; John Doe <br> <span>Customer</span></cite></blockquote>
+                  <blockquote class="quote">&ldquo;They put a lot of time into making sure I was happy with the website and app. I couldn't thank them more.&rdquo; <cite class="author">&mdash; Jerry, A <br> <span>Customer</span></cite></blockquote>
                 </div>
 
               </div>
               <div class="item">
                 <div class="probootstrap-testimony-wrap text-center">
                   <figure>
-                    <img src="assets/img/person_2.jpg" alt="Free Bootstrap Template by uicookies.com">
+                    <img src="assets/img/nana.png">
                   </figure>
-                  <blockquote class="quote">&ldquo;Lorem Epsim nhfIUE Hfe wasfi jela lorel lameli jorfet figiali.&rdquo; <cite class="author">&mdash; Steve Jobs <br> <span>Customer</span></cite></blockquote>
+                  <blockquote class="quote">&ldquo; My last website manager wasn't willing to do their job. Thankfully Devafied has been able to step in.&rdquo; <cite class="author">&mdash; Lynda, K <br> <span>Customer</span></cite></blockquote>
                 </div>
               </div>
               <div class="item">
                 <div class="probootstrap-testimony-wrap text-center">
                   <figure>
-                    <img src="assets/img/person_3.jpg" alt="Free Bootstrap Template by uicookies.com">
+                    <img src="assets/img/person_3.jpg">
                   </figure>
                   <blockquote class="quote">&ldquo;Lorem Epsim nhfIUE Hfe wasfi jela lorel lameli jorfet figiali.&rdquo; <cite class="author">&mdash; Da Baby <br> <span>Customer</span></cite></blockquote>
                 </div>
@@ -335,7 +335,7 @@
                   <ul>
                     <li><a href="index.aspx">Home</a></li>
                     <li><a href="contact.aspx">Contact</a></li>
-                    <li><a href="termsofservice.aspx">Terms of services</a></li>
+                    <li><a href="termsofservice.aspx">Terms & Conditions</a></li>
                     <li><a href="privacy.aspx">Privacy Policy</a></li>
                   </ul>
                 </div>

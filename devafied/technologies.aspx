@@ -150,7 +150,7 @@
                   <ul>
                     <li><a href="index.aspx">Home</a></li>
                     <li><a href="contact.aspx">Contact</a></li>
-                    <li><a href="termsofservice.aspx">Terms of services</a></li>
+                    <li><a href="termsofservice.aspx">Terms & Conditions</a></li>
                     <li><a href="privacy.aspx">Privacy Policy</a></li>
                   </ul>
                 </div>
