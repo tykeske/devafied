@@ -62,7 +62,7 @@
               <div class="col-md-8 col-md-offset-2">
                 <div class="probootstrap-slider-text text-center">
                   <h1 class="probootstrap-heading">Hosting</h1>
-                  <p class="probootstrap-subheading">Loream isper diaoe flaekies goopser</p>
+                  <p class="probootstrap-subheading">Provided by WizardNode LLC</p>
                 </div>
               </div>
             </div>
