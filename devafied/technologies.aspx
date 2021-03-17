@@ -56,13 +56,13 @@
     <section class="flexslider">
       <ul class="slides">
         
-        <li style="background-image: url(assets/img/work_1.jpg)" class="overlay">
+        <li style="background-image: url(assets/img/3.jpg)" class="overlay">
           <div class="container">
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
                 <div class="probootstrap-slider-text text-center">
-                  <h1 class="probootstrap-heading">Poster</h1>
-                  <p class="probootstrap-subheading">Brand Identity, Website</p>
+                  <h1 class="probootstrap-heading">Technologies</h1>
+                  <p class="probootstrap-subheading">The tools we use</p>
                 </div>
               </div>
             </div>
@@ -80,8 +80,8 @@
         <div class="row mb50">
           <div class="col-md-4"><h1 class="mt0">The Technologies We Use</h1></div>
           <div class="col-md-7 col-md-push-1">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum est incidunt dolorem earum doloremque quasi mollitia magnam debitis eos eligendi ratione a illo ipsam aspernatur quas odio dicta! Neque ullam reiciendis numquam architecto eius reprehenderit aperiam dicta voluptates laborum a fugit sit non omnis perferendis magni suscipit dolorum cumque obcaecati autem. Explicabo odit veritatis quae porro praesentium veniam delectus itaque expedita cumque minus necessitatibus quia assumenda illum! Vitae doloribus nemo esse alias autem debitis facilis quae pariatur voluptatum eaque perspiciatis animi accusantium cupiditate at molestias optio assumenda hic fuga. Consequatur vero cupiditate ea dolorum sit cum odio ipsam aliquam sed!</p>
-            <p>Explicabo odit veritatis quae porro praesentium veniam delectus itaque expedita cumque minus necessitatibus quia assumenda illum! Vitae doloribus nemo esse alias autem debitis facilis quae pariatur voluptatum eaque perspiciatis animi accusantium cupiditate at molestias optio assumenda hic fuga. Consequatur vero cupiditate ea dolorum sit cum odio ipsam aliquam sed!</p>
+            <p>Our team uses a variety of different technologies. We mainly build our projects with Visual Studio ASP.NET that has a variety of various coding languages. We use a combination of HTML (HyperText Markup Language), CSS (Cascading Style Sheets), JavaScript, and C# (C Sharp). Depending on if you want a static website, then we will use HMTL and CSS. If you would like a Dynamic website, then we would use ASP and Javascript.</p>
+            <p>We use Microsoft SQL Server Management Studio software to connect to databases that we create specifically for you. This software takes information, stores, organizes, and processes it so users can easily access information. We chose Microsoft SQL Server Management Studio for numerous reasons. This software ensures top-tier security, easy management; and is incredibly accurate with the optimization aspect of storing data.</p>
           </div>
         </div>
         <!-- END row -->
