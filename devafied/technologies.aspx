@@ -32,7 +32,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.aspx" title="uiCookies:Stack">Stack</a>
+          <a class="navbar-brand" href="index.aspx" title="Devafied">Devafied</a>
         </div>
 
         <div id="navbar-collapse" class="navbar-collapse collapse">
@@ -96,7 +96,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <h2 class="probootstrap-animate" data-animate-effect="fadeInRight">We'd like to help and talk with you</h2>
+            <h2 class="probootstrap-animate" data-animate-effect="fadeInRight">Would you like to know more about our technologies?</h2>
             <a href="contact.aspx" role="button" class="btn btn-primary btn-lg btn-ghost probootstrap-animate" data-animate-effect="fadeInLeft">Contact Us</a>
           </div>
         </div>

@@ -271,15 +271,6 @@
                   <blockquote class="quote">&ldquo; My last website manager wasn't willing to do their job. Thankfully Devafied has been able to step in.&rdquo; <cite class="author">&mdash; Lynda, K <br> <span>Customer</span></cite></blockquote>
                 </div>
               </div>
-              <div class="item">
-                <div class="probootstrap-testimony-wrap text-center">
-                  <figure>
-                    <img src="assets/img/person_3.jpg">
-                  </figure>
-                  <blockquote class="quote">&ldquo;Lorem Epsim nhfIUE Hfe wasfi jela lorel lameli jorfet figiali.&rdquo; <cite class="author">&mdash; Da Baby <br> <span>Customer</span></cite></blockquote>
-                </div>
-              </div>
-              
             </div>
           </div>
         </div>

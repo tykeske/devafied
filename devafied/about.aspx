@@ -32,7 +32,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.aspx" title="uiCookies:Stack">Stack</a>
+          <a class="navbar-brand" href="index.aspx" title="Devafied">Devafied</a>
         </div>
 
         <div id="navbar-collapse" class="navbar-collapse collapse">
@@ -56,13 +56,13 @@
     <section class="flexslider">
       <ul class="slides">
         
-        <li style="background-image: url(assets/img/slider_2.jpg)" class="overlay">
+        <li style="background-image: url(assets/img/1.jpg)" class="overlay">
           <div class="container">
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
                 <div class="probootstrap-slider-text text-center">
                   <h1 class="probootstrap-heading">About Us</h1>
-                  <p class="probootstrap-subheading">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                  <p class="probootstrap-subheading"></p>
                 </div>
               </div>
             </div>
@@ -83,17 +83,18 @@
         <div class="row">
              <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
             <a href="#" class="probootstrap-team">
-              <img src="assets/img/person_3.jpg" class="img-responsive img-rounded" style="display:block; margin-left:auto;"/>
+              <img  src="assets/img/tyler.jpg"  class="img-responsive img-rounded">
               <div class="probootstrap-team-info">
-                <h3>John Doe <span class="position">Co-Founder / Devoloper</span></h3>
+                <h3>Tyler Keske <span class="position">Co-Founder / Devoloper</span></h3>
               </div>
             </a>
           </div>
+
           <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
             <a href="#" class="probootstrap-team">
-              <img src="assets/img/person_2.jpg" class="img-responsive img-rounded center" style="display:block; margin-left:auto;"/>
+              <img src="assets/img/landon1.jpg"  class="img-responsive img-rounded">
               <div class="probootstrap-team-info">
-                <h3>Lil Baby <span class="position">Co-Founder / Creative</span></h3>
+                <h3>Landon Mullis <span class="position">Co-Founder / Creative</span></h3>
               </div>
             </a>
           </div>
@@ -102,103 +103,32 @@
 
           <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
             <a href="#" class="probootstrap-team">
-              <img src="assets/img/person_3.jpg" class="img-responsive img-rounded" style="display:block; margin-left:auto;"/>
+              <img src="assets/img/person_3.jpg"  class="img-responsive img-rounded">
               <div class="probootstrap-team-info">
-                <h3>Will Smith <span class="position">Developer</span></h3>
+                <h3>Cohen Jones <span class="position">Hosting Provider</span></h3>
               </div>
             </a>
-          </div>   
+          </div>  
+
             <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
             <a href="#" class="probootstrap-team">
-              <img src="assets/img/person_2.jpg" class="img-responsive img-rounded center" style="display:block; margin-left:auto;"/>
+              <img  src="assets/img/person_3.jpg"  class="img-responsive img-rounded">
               <div class="probootstrap-team-info">
-                <h3>Lil Baby <span class="position">Co-Founder / Creative</span></h3>
-              </div>
-            </a>
-          </div>
+                <h3>Dominic Dorr <span class="position">Marketing Manager</span></h3>
+             </div>
+           </a>
+         </div>            
 
         </div>
       </div>
     </section>
-  
-
-    <section class="probootstrap-section proboostrap-clients probootstrap-bg-white probootstrap-zindex-above-showcase">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
-            <h2>Lorem ipsum dolor dieas lgien nekaj</h2>
-            <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-          </div>
-        </div>
         <!-- END row -->
-        
-      </div>
-    </section>
-
-    
-
-    <section class="probootstrap-section">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6">
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-mobile3"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
-              </div>  
-            </div>
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-presentation"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
-              </div>
-            </div>
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-circle-compass"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-lightbulb"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>  
-            </div>
-            
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-magnifying-glass2"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>
-            </div>
-            
-            <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-browser2"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>
-            </div>
-
-          </div>
-        </div>
-        <!-- END row -->
-      </div>
-    </section>
 
     <section class="probootstrap-section probootstrap-border-top probootstrap-bg-white">
       <div class="container">
         <div class="row">
           <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
-            <h2>Testimonial</h2>
+            <h2>Testimonials</h2>
           </div>
         </div>
         <!-- END row -->
@@ -209,29 +139,20 @@
 
                 <div class="probootstrap-testimony-wrap text-center">
                   <figure>
-                    <img src="assets/img/person_1.jpg" alt="Free Bootstrap Template by uicookies.com">
+                    <img src="assets/img/jerry.png">
                   </figure>
-                  <blockquote class="quote">&ldquo;Lorem Epsim nhfIUE Hfe wasfi jela lorel lameli jorfet figiali.&rdquo; <cite class="author">&mdash; John Doe <br> <span>Customer</span></cite></blockquote>
+                  <blockquote class="quote">&ldquo;They put a lot of time into making sure I was happy with the website and app. I couldn't thank them more.&rdquo; <cite class="author">&mdash; Jerry, A <br> <span>Customer</span></cite></blockquote>
                 </div>
 
               </div>
               <div class="item">
                 <div class="probootstrap-testimony-wrap text-center">
                   <figure>
-                    <img src="assets/img/person_2.jpg" alt="Free Bootstrap Template by uicookies.com">
+                    <img src="assets/img/nana.png">
                   </figure>
-                  <blockquote class="quote">&ldquo;Lorem Epsim nhfIUE Hfe wasfi jela lorel lameli jorfet figiali.&rdquo; <cite class="author">&mdash; Steve Jobs <br> <span>Customer</span></cite></blockquote>
+                  <blockquote class="quote">&ldquo; My last website manager wasn't willing to do their job. Thankfully Devafied has been able to step in.&rdquo; <cite class="author">&mdash; Lynda, K <br> <span>Customer</span></cite></blockquote>
                 </div>
               </div>
-              <div class="item">
-                <div class="probootstrap-testimony-wrap text-center">
-                  <figure>
-                    <img src="assets/img/person_3.jpg" alt="Free Bootstrap Template by uicookies.com">
-                  </figure>
-                  <blockquote class="quote">&ldquo;Lorem Epsim nhfIUE Hfe wasfi jela lorel lameli jorfet figiali.&rdquo; <cite class="author">&mdash; Da Baby <br> <span>Customer</span></cite></blockquote>
-                </div>
-              </div>
-              
             </div>
           </div>
         </div>
