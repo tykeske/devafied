@@ -88,6 +88,15 @@
     <Content Include="assets\fonts\icomoon demo\Read Me.txt" />
     <Content Include="assets\fonts\icomoon demo\style.css" />
     <Content Include="assets\fonts\icomoon\icomoon.svg" />
+    <Content Include="assets\img\1.jpg" />
+    <Content Include="assets\img\123.png" />
+    <Content Include="assets\img\1234.jpg" />
+    <Content Include="assets\img\12345.jpg" />
+    <Content Include="assets\img\2.jpg" />
+    <Content Include="assets\img\3.jpg" />
+    <Content Include="assets\img\45.jpg" />
+    <Content Include="assets\img\78.jpg" />
+    <Content Include="assets\img\89.jpg" />
     <Content Include="assets\img\client_1.png" />
     <Content Include="assets\img\client_2.png" />
     <Content Include="assets\img\client_3.png" />
@@ -99,6 +108,7 @@
     <Content Include="assets\img\img_showcase_1.jpg" />
     <Content Include="assets\img\img_showcase_2.jpg" />
     <Content Include="assets\img\jerry.png" />
+    <Content Include="assets\img\landon1.jpg" />
     <Content Include="assets\img\laptop_1.jpg" />
     <Content Include="assets\img\logo%402x.png" />
     <Content Include="assets\img\logo.png" />
@@ -112,6 +122,7 @@
     <Content Include="assets\img\slider_2.jpg" />
     <Content Include="assets\img\slider_3.jpg" />
     <Content Include="assets\img\tAnPBack.jpg" />
+    <Content Include="assets\img\tyler.jpg" />
     <Content Include="assets\img\work_1.jpg" />
     <Content Include="assets\img\work_2.jpg" />
     <Content Include="assets\img\work_3.jpg" />
