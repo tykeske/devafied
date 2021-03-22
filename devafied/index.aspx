@@ -56,35 +56,35 @@
 
     <section class="flexslider">
       <ul class="slides">
-        <li style="background-image: url(assets/img/slider_1.jpg)" class="overlay">
+        <li style="background-image: url(assets/img/123.png)" class="overlay">
           <div class="container">
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
                 <div class="probootstrap-slider-text text-center">
-                  <h1 class="probootstrap-heading">Lorem ipsum dolor</h1>
+                  <h1 class="probootstrap-heading">Web Design</h1>
                 </div>
               </div>
             </div>
           </div>
         </li>
-        <li style="background-image: url(assets/img/slider_2.jpg)" class="overlay">
+        <li style="background-image: url(assets/img/2.jpg)" class="overlay">
           <div class="container">
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
                 <div class="probootstrap-slider-text text-center">
-                  <h1 class="probootstrap-heading">Lorem ipsum dolor</h1>
+                  <h1 class="probootstrap-heading">Hosting</h1>
                 </div>
               </div>
             </div>
           </div>
           
         </li>
-        <li style="background-image: url(assets/img/slider_3.jpg)" class="overlay">
+        <li style="background-image: url(assets/img/78.jpg)" class="overlay">
           <div class="container">
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
                 <div class="probootstrap-slider-text text-center">
-                  <h1 class="probootstrap-heading">Lorem ipsum dolor</h1>
+                  <h1 class="probootstrap-heading">Product Maintenance</h1>
                 </div>
               </div>
             </div>
@@ -103,56 +103,28 @@
         <div class="row probootstrap-gutter60">
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-mobile3"></i></div>
+              <div class="icon"><i class="icon-pencil"></i></div>
               <div class="text">
                 <h3>Responsive Design</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                <p>Our developers include mobile compatibility with your website for free. The websites that we create are always mobile-friendly because they are more easily accessible. Most users nowadays are mobile so, it's a great way to share information. </p>
               </div>  
             </div>
           </div>
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-presentation"></i></div>
+              <div class="icon"><i class="icon-database"></i></div>
               <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                <h3>Database Services</h3>
+                <p>We ensure that our databases are frequently monitored. The databases are safe and secure through our encryption techniques. The development team uses Microsoft SQL Server Management studio to host and manage the database for our customers. </p>
               </div>
             </div>
           </div>
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-circle-compass"></i></div>
+              <div class="icon"><i class="icon-hammer"></i></div>
               <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
-            <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-lightbulb"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>  
-            </div>
-          </div>
-          <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
-            <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-magnifying-glass2"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
-            <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-browser2"></i></div>
-              <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                <h3>Maintenance</h3>
+                <p>Our maintenance team ensures that your website will frequently be checked for any issues. Why is maintenance crucial for websites? Maintenance is crucial for websites to ensure that everything is up to date and running at its best capability. It also increases the traffic that comes through the website daily as well. </p>
               </div>
             </div>
           </div>
@@ -170,13 +142,6 @@
     
     <section class="probootstrap-section proboostrap-clients probootstrap-bg-white probootstrap-zindex-above-showcase">
       <div class="container">
-
-        <div class="row">
-          <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
-            <h2>Responsive Design</h2>
-            <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-          </div>
-        </div>
         <!-- END row -->
       </div>
     </section>
@@ -184,31 +149,32 @@
 
     <section class="probootstrap-section">
       <div class="container">
-        <div class="row">
+          <div class="row">
           <div class="col-md-6 col-md-offset-3 text-center section-heading">
             <h2>Development Process</h2>
           </div>
         </div>
+        <div class="row">
           <div class="col-md-6">
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
               <div class="icon"><i class="icon-user-check"></i></div>
               <div class="text">
                 <h3>Your Vision</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
+                <p>The process starts with a "brainstorming phase" that takes place with what you would like to achieve and can be the internal purpose of your website. Our priority is to make your website meet your desired needs. </p>
               </div>  
             </div>
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
               <div class="icon"><i class="icon-pencil"></i></div>
               <div class="text">
                 <h3>Establish a Plan</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
+                <p>We develop and set up a table with details that we need from you to help achieve the final project. We prioritize tables and charts in different ways to ensure you understand and visualize what our plan is. Then you should be able to see if we need to make any changes to your website. </p>
               </div>
             </div>
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
               <div class="icon"><i class="icon-spinner"></i></div>
               <div class="text">
                 <h3>Design Mockups</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
+                <p>We create drafts to see your website in action and give you a better visual representation of what it would look like live. We will contact you with different versions of full-sized structural models of the website for optimal understanding.</p>
               </div>
             </div>
           </div>
@@ -217,7 +183,7 @@
               <div class="icon"><i class="icon-embed2"></i></div>
               <div class="text">
                 <h3>Development Phase</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                <p>Our skilled developers design and format your website to your desired needs and preferences. The development phase is the most extensive phase of the development process. Throughout the development phase, we work closely with our customers to ensure satisfaction. </p>
               </div>  
             </div>
             
@@ -225,21 +191,23 @@
               <div class="icon"><i class="icon-bubbles"></i></div>
               <div class="text">
                 <h3>Quality Check</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                <p>When your website is complete, you will hear from us and go over every aspect of the site; this is your time to pick and choose what you like and give critical feedback for what needs to be changed. The quality check is the final phase before we put your website out for the world to see. </p>
               </div>
             </div>
             
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
               <div class="icon"><i class="icon-cloud-check"></i></div>
               <div class="text">
-                <h3>Website Launch</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                <h3>Website Launch & Maintenance</h3>
+               <p>After your website is complete and you're happy with our work; We will launch and maintain your website. All of our services are monitored and maintained throughout the lifetime of the project. You can opt-out of our post-launch services at any time.F</p>
+
               </div>
             </div>
 
           </div>
         </div>
         <!-- END row -->
+      </div>
     </section>
 
     <section class="probootstrap-section probootstrap-border-top probootstrap-bg-white">
