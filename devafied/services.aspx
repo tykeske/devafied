@@ -56,13 +56,13 @@
 <section class="flexslider">
       <ul class="slides">
         
-        <li style="background-image: url(assets/img/89.jpg)" class="overlay">
+        <li style="background-image: url(assets/img/service1.png)" class="overlay">
           <div class="container">
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
                 <div class="probootstrap-slider-text text-center">
                   <h1 class="probootstrap-heading">Services</h1>
-                  <p class="probootstrap-subheading">Our specialty, we love to work with you</p>
+                  <p class="probootstrap-subheading">Our specialties</p>
                 </div>
               </div>
             </div>
@@ -161,8 +161,7 @@
               <ul class="probootstrap-footer-social">
                 <li><a href="#"><i class="icon-twitter"></i></a></li>
                 <li><a href="#"><i class="icon-facebook"></i></a></li>
-                <li><a href="#"><i class="icon-github"></i></a></li>
-                <li><a href="#"><i class="icon-linkedin"></i></a></li>
+                <li><a href="#"><i class="icon-instagram"></i></a></li>
               </ul>
             </div>
           </div>

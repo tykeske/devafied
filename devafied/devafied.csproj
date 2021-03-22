@@ -97,6 +97,7 @@
     <Content Include="assets\img\45.jpg" />
     <Content Include="assets\img\78.jpg" />
     <Content Include="assets\img\89.jpg" />
+    <Content Include="assets\img\about1.jpg" />
     <Content Include="assets\img\client_1.png" />
     <Content Include="assets\img\client_2.png" />
     <Content Include="assets\img\client_3.png" />
@@ -116,6 +117,7 @@
     <Content Include="assets\img\jerry.png" />
     <Content Include="assets\img\landon1.jpg" />
     <Content Include="assets\img\laptop_1.jpg" />
+    <Content Include="assets\img\legal.jpg" />
     <Content Include="assets\img\logo%402x.png" />
     <Content Include="assets\img\logo.png" />
     <Content Include="assets\img\modal_bg.jpg" />
@@ -124,10 +126,12 @@
     <Content Include="assets\img\person_2.jpg" />
     <Content Include="assets\img\person_3.jpg" />
     <Content Include="assets\img\person_4.jpg" />
+    <Content Include="assets\img\service1.png" />
     <Content Include="assets\img\slider_1.jpg" />
     <Content Include="assets\img\slider_2.jpg" />
     <Content Include="assets\img\slider_3.jpg" />
     <Content Include="assets\img\tAnPBack.jpg" />
+    <Content Include="assets\img\tech1.jpg" />
     <Content Include="assets\img\tyler.jpg" />
     <Content Include="assets\img\wizardNode.png" />
     <Content Include="assets\img\wizardNode2.png" />

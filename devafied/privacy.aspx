@@ -34,7 +34,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.aspx" title="uiCookies:Stack">Stack</a>
+          <a class="navbar-brand" href="index.aspx" title="Devafied">Devafied</a>
         </div>
 
         <div id="navbar-collapse" class="navbar-collapse collapse">
@@ -58,7 +58,7 @@
     <section class="flexslider">
       <ul class="slides">
         
-        <li style="background-image: url(assets/img/tAnPBack.jpg)" class="overlay">
+        <li style="background-image: url(assets/img/legal.jpg)" class="overlay">
           <div class="container">
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
@@ -152,8 +152,7 @@
               <ul class="probootstrap-footer-social">
                 <li><a href="#"><i class="icon-twitter"></i></a></li>
                 <li><a href="#"><i class="icon-facebook"></i></a></li>
-                <li><a href="#"><i class="icon-github"></i></a></li>
-                <li><a href="#"><i class="icon-linkedin"></i></a></li>
+                <li><a href="#"><i class="icon-instagram"></i></a></li>
               </ul>
             </div>
           </div>

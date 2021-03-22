@@ -59,7 +59,7 @@
     <section class="flexslider">
       <ul class="slides">
         
-        <li style="background-image: url(assets/img/tAnPBack.jpg)" class="overlay">
+        <li style="background-image: url(assets/img/legal.jpg)" class="overlay">
           <div class="container">
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
@@ -281,8 +281,7 @@ Calibri;color:#595959;mso-themecolor:text1;mso-themetint:166;">In order to resol
               <ul class="probootstrap-footer-social">
                 <li><a href="#"><i class="icon-twitter"></i></a></li>
                 <li><a href="#"><i class="icon-facebook"></i></a></li>
-                <li><a href="#"><i class="icon-github"></i></a></li>
-                <li><a href="#"><i class="icon-linkedin"></i></a></li>
+                <li><a href="#"><i class="icon-instagram"></i></a></li>
               </ul>
             </div>
           </div>
