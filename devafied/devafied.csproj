@@ -101,6 +101,7 @@
     <Content Include="assets\img\client_2.png" />
     <Content Include="assets\img\client_3.png" />
     <Content Include="assets\img\client_4.png" />
+    <Content Include="assets\img\contactIMG.png" />
     <Content Include="assets\img\devafiedLogo.png" />
     <Content Include="assets\img\devafiedLogo1.png" />
     <Content Include="assets\img\devLogo.png" />
@@ -123,6 +124,9 @@
     <Content Include="assets\img\slider_3.jpg" />
     <Content Include="assets\img\tAnPBack.jpg" />
     <Content Include="assets\img\tyler.jpg" />
+    <Content Include="assets\img\wizardNode.png" />
+    <Content Include="assets\img\wizardNode2.png" />
+    <Content Include="assets\img\wiztest.png" />
     <Content Include="assets\img\work_1.jpg" />
     <Content Include="assets\img\work_2.jpg" />
     <Content Include="assets\img\work_3.jpg" />

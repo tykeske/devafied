@@ -56,7 +56,7 @@
     <section class="flexslider">
       <ul class="slides">
         
-        <li style="background-image: url(img/slider_3.jpg)" class="overlay">
+        <li style="background-image: url(assets/img/contactIMG.png)" class="overlay">
           <div class="container">
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
@@ -108,7 +108,7 @@
             
             <h4>USA</h4>
             <ul class="probootstrap-contact-info">
-              <li><i class="icon-pin"></i> <span>1969 Apple Street, Portland, OR 98989</span></li>
+              <li><i class="icon-pin"></i> <span>12466 NW Devonmoor ave, Banks, OR 97106</span></li>
               <li><i class="icon-email"></i><span>devafiedconsultants@gmail.com</span></li>
               <li><i class="icon-phone"></i><span>+503-773-8637</span></li>
               <li><i class="icon-phone"></i><span>+‪803-619-0143‬</span></li>
@@ -131,7 +131,6 @@
               <ul class="probootstrap-footer-social">
                 <li><a href="#"><i class="icon-twitter"></i></a></li>
                 <li><a href="#"><i class="icon-facebook"></i></a></li>
-                <li><a href="#"><i class="icon-github"></i></a></li>
                 <li><a href="#"><i class="icon-linkedin"></i></a></li>
               </ul>
             </div>

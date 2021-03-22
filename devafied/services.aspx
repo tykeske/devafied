@@ -53,10 +53,10 @@
       </div>
     </nav>
 
-    <section class="flexslider">
+<section class="flexslider">
       <ul class="slides">
         
-        <li style="background-image: url(img/slider_1.jpg)" class="overlay">
+        <li style="background-image: url(assets/img/89.jpg)" class="overlay">
           <div class="container">
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
@@ -80,110 +80,64 @@
         <div class="row probootstrap-gutter60">
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-mobile3"></i></div>
+              <div class="icon"><i class="icon-pencil"></i></div>
               <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                <h3>Responsive Design</h3>
+                <p>Our developers include mobile compatibility with your website for free. The websites that we create are always mobile-friendly because they are more easily accessible. Nowadays most users access the web from mobile devices, so its a great way to stay ahead in the game.</p>
               </div>  
             </div>
           </div>
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-presentation"></i></div>
+              <div class="icon"><i class="icon-database"></i></div>
               <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                <h3>Database Services</h3>
+                <p>We ensure that our databases are frequently monitored. The databases are safe and secure through our encryption techniques. The development team uses Microsoft SQL Server Management studio to host and manage the database for our customers.</p>
               </div>
             </div>
           </div>
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-circle-compass"></i></div>
+              <div class="icon"><i class="icon-hammer"></i></div>
               <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                <h3>Maintenance</h3>
+                <p>Our maintenance team ensures that your website will be checked frequently for any issues.  Maintenance is crucial for websites to ensure that everything is up to date and running at its best capability. It also increases your sites web traffic.</p>
               </div>
             </div>
           </div>
+        </div>
 
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-lightbulb"></i></div>
+              <div class="icon"><i class="icon-question"></i></div>
               <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                <h3>Q&A / Support</h3>
+                <p>The support system that we have helps us get a better insight into some issues that you might have. Support systems are crucial to websites. One reason for that is that it helps reduce an extensive amount of stress and anxiety. Our support system makes it easier for us so that we can focus on our customer relationships. ⠀</p>
               </div>  
             </div>
           </div>
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-magnifying-glass2"></i></div>
+              <div class="icon"><i class="icon-laptop"></i></div>
               <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                <h3>E-Commerce</h3>
+                <p>The system that we use allows customers to electronically buy or sell products off online services over the web. The platform that we use also integrates sales in WooCommerce who have an exceptional reputation for online retail with businesses. We can also connect with Shopify and other services for drop shipping.</p>
               </div>
             </div>
           </div>
           <div class="col-md-4 probootstrap-animate" data-animate-effect="fadeIn">
             <div class="service hover_service text-center">
-              <div class="icon"><i class="icon-browser2"></i></div>
+              <div class="icon"><i class="icon-file-text"></i></div>
               <div class="text">
-                <h3>Lorem ipsum dolor</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                <h3>Word Press</h3>
+                <p>We use this web publishing software to create the stunning websites. Word Press is known for its flexibility and easiness to use. This web publishing software powers over 15% of the top 100 websites in the world. Word Press powers nearly 30% of the web and is known to have an exceedingly high reputation.                ⠀</p>
               </div>
             </div>
           </div>
         </div>
-        <!-- END row -->
-      </div>
-    </section>
+        <!-- END row -->   
+        </section>
 
-    <section class="probootstrap-section probootstrap-bg-white">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6 col-md-offset-3 text-center section-heading">
-            <h2>Testimonials</h2>
-          </div>
-        </div>
-        <!-- END row -->
-        <div class="row">
-          <div class="col-md-12">
-            <div class="owl-carousel owl-carousel-fullwidth">
-              <div class="item">
-
-                <div class="probootstrap-testimony-wrap text-center">
-                  <figure>
-                    <img src="assets/img/person_1.jpg" alt="Free Bootstrap Template by uicookies.com">
-                  </figure>
-                  <blockquote class="quote">&ldquo;Design must be functional and functionality must be translated into visual aesthetics, without any reliance on gimmicks that have to be explained.&rdquo; <cite class="author">&mdash; Ferdinand A. Porsche <br> <span>Design Lead at AirBNB</span></cite></blockquote>
-                </div>
-
-              </div>
-              <div class="item">
-                <div class="probootstrap-testimony-wrap text-center">
-                  <figure>
-                    <img src="assets/img/person_2.jpg" alt="Free Bootstrap Template by uicookies.com">
-                  </figure>
-                  <blockquote class="quote">&ldquo;Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while.&rdquo; <cite class="author">&mdash; Steve Jobs <br> <span>Co-Founder Square</span></cite></blockquote>
-                </div>
-              </div>
-              <div class="item">
-                <div class="probootstrap-testimony-wrap text-center">
-                  <figure>
-                    <img src="assets/img/person_3.jpg" alt="Free Bootstrap Template by uicookies.com">
-                  </figure>
-                  <blockquote class="quote">&ldquo;I think design would be better if designers were much more skeptical about its applications. If you believe in the potency of your craft, where you choose to dole it out is not something to take lightly.&rdquo; <cite class="author">&mdash; Frank Chimero <br> <span>Creative Director at Twitter</span></cite></blockquote>
-                </div>
-              </div>
-              
-            </div>
-          </div>
-        </div>
-        <!-- END row -->
-      </div>
-    </section>
-
-    
     <section class="probootstrap-cta">
       <div class="container">
         <div class="row">

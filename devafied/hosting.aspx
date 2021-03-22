@@ -56,16 +56,8 @@
     <section class="flexslider">
       <ul class="slides">
         
-        <li style="background-image: url(assets/img/slider_3.jpg)" class="overlay">
+        <li style="background-image: url(assets/img/wizardNode2.png)" class="overlay">
           <div class="container">
-            <div class="row">
-              <div class="col-md-8 col-md-offset-2">
-                <div class="probootstrap-slider-text text-center">
-                  <h1 class="probootstrap-heading">Hosting</h1>
-                  <p class="probootstrap-subheading">Loream isper diaoe flaekies goopser</p>
-                </div>
-              </div>
-            </div>
           </div>
         </li>
       </ul>
