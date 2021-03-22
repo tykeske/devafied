@@ -110,6 +110,7 @@
             <ul class="probootstrap-contact-info">
               <li><i class="icon-pin"></i> <span>12466 NW Devonmoor ave, Banks, OR 97106</span></li>
               <li><i class="icon-email"></i><span>devafiedconsultants@gmail.com</span></li>
+              <li><i class="icon-email"></i><span>support@wizardnode.com</span></li>
               <li><i class="icon-phone"></i><span>+503-773-8637</span></li>
               <li><i class="icon-phone"></i><span>+‪803-619-0143‬</span></li>
             </ul>

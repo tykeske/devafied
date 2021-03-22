@@ -103,18 +103,18 @@
 
           <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
             <a href="#" class="probootstrap-team">
-              <img src="assets/img/person_3.jpg"  class="img-responsive img-rounded">
+              <img src="assets/img/dom.jpg"  class="img-responsive img-rounded">
               <div class="probootstrap-team-info">
-                <h3>Cohen Jones <span class="position">Hosting Provider</span></h3>
+                <h3>Dominic Dorr <span class="position">Marketing Manager</span></h3>
               </div>
             </a>
           </div>  
 
             <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
             <a href="#" class="probootstrap-team">
-              <img  src="assets/img/person_3.jpg"  class="img-responsive img-rounded">
+              <img  src="assets/img/cohen.jpg"  class="img-responsive img-rounded">
               <div class="probootstrap-team-info">
-                <h3>Dominic Dorr <span class="position">Marketing Manager</span></h3>
+                <h3>Cohen Jones <span class="position">Hosting Provider</span></h3>
              </div>
            </a>
          </div>            
