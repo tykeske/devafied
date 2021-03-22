@@ -12,7 +12,9 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:400,500,700">
     <link rel="stylesheet" href="assets/css/styles-merged.css">
     <link rel="stylesheet" href="assets/css/style.min.css">
-
+      <link href="assets/fonts/font-awesome.css" rel="stylesheet" />
+    <link href="assets/fonts/font-awesome.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/css/all.min.css" />
     <!--[if lt IE 9]>
       <script src="js/vendor/html5shiv.min.js"></script>
       <script src="js/vendor/respond.min.js"></script>
@@ -82,49 +84,49 @@
         <div class="row">
           <div class="col-md-6">
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-user-check"></i></div>
+              <div class="icon"><i class="fas fa-shield-alt"></i></div>
               <div class="text">
-                <h3>Loream Ipsome</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
+                <h3>DDos Protection</h3>
+                <p>Our main focus is security and safety. We use ddos prevention tools to administer our networks and scan for any possible cyber attacks.</p>
               </div>  
             </div>
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-pencil"></i></div>
+              <div class="icon"><i class="fas fa-user-clock"></i></div>
               <div class="text">
-                <h3>Loream Ipsomen</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
+                <h3>24/7 Hosting Support</h3>
+                <p>Support is another one of our main focuses. We want our customers to have the best expeirence with us so we provide a great support system.</p>
               </div>
             </div>
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-spinner"></i></div>
+              <div class="icon"><i class="fas fa-server"></i></div>
               <div class="text">
-                <h3>Loream Ipsomeps</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit iusto provident.</p>
+                <h3>99.9% Uptime</h3>
+                <p>Our servers run 24/7/365 and we take pride in our uptime. Servers always have a chance to have downtime, but our team ensures that this is very unlikely. </p>
               </div>
             </div>
           </div>
           <div class="col-md-6">
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-embed2"></i></div>
+              <div class="icon"><i class="fas fa-desktop"></i></div>
               <div class="text">
-                <h3>Loream Ipsomease</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                <h3>Ryzen Processing Power</h3>
+                <p>We have the most powerful servers with Ryzen CPUs. Our CPUs are Ryzen 9 3900x with liquid cooling. We also use exceptionally fast m.2 sata drives for storage.</p>
               </div>  
             </div>
             
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-bubbles"></i></div>
+              <div class="icon"><i class="fas fa-laptop-code"></i></div>
               <div class="text">
-                <h3>Loream Ipsomeck</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                <h3>Custom Panel</h3>
+                <p>One of our big things that we do is that we make custom panels for you. We customize the panels to your likings and preferences. </p>
               </div>
             </div>
             
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
-              <div class="icon"><i class="icon-cloud-check"></i></div>
+              <div class="icon"><i class="fas fa-cogs"></i></div>
               <div class="text">
-                <h3>Loream Ipsomench</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                <h3>Instant Setup</h3>
+                <p>There is an instant setup if you buy our hosting services. </p>
               </div>
             </div>
 

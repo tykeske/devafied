@@ -103,7 +103,7 @@
 
           <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
             <a href="#" class="probootstrap-team">
-              <img src="assets/img/person_3.jpg"  class="img-responsive img-rounded">
+              <img src="assets/img/cohen.jpg"  class="img-responsive img-rounded">
               <div class="probootstrap-team-info">
                 <h3>Cohen Jones <span class="position">Developer</span></h3>
               </div>
@@ -112,9 +112,9 @@
 
             <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
             <a href="#" class="probootstrap-team">
-              <img  src="assets/img/person_3.jpg"  class="img-responsive img-rounded">
+              <img  src="assets/img/dom.jpg"  class="img-responsive img-rounded">
               <div class="probootstrap-team-info">
-                <h3>Steve Jobs <span class="position">Developer</span></h3>
+                <h3>Dom Dorr <span class="position">Sales Associate</span></h3>
              </div>
            </a>
          </div>            
