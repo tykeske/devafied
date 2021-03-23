@@ -111,7 +111,7 @@
           </div>  
 
             <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
-            <a href="#" class="probootstrap-team">
+            <a href="https://www.wizardnode.com/" class="probootstrap-team">
               <img  src="assets/img/cohen.jpg"  class="img-responsive img-rounded">
               <div class="probootstrap-team-info">
                 <h3>Cohen Jones <span class="position">Hosting Provider</span></h3>

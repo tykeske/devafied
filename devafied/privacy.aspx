@@ -136,7 +136,7 @@
                   <h6 style="color:black; float:left; padding-left:16px;">If we change our privacy policy we will include an alert on the site before changing the policy. The alert will be up for 24 hours till we change the policy. When you use this site you are consenting to the privacy policy at its current state.</h6>
                   </div>
           </div>
-
+          <a href="https://www.wizardnode.com/">Hosting provider privacy policy.</a>
       </div>
     </section>   
 

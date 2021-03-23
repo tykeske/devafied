@@ -59,7 +59,7 @@
     <section class="flexslider">
       <ul class="slides">
         
-        <li style="background-image: url(assets/img/wizardNode2.png)" class="overlay">
+        <li style="background-image: url(assets/img/wizardNode4.png)" class="overlay">
           <div class="container">
           </div>
         </li>
@@ -110,8 +110,8 @@
             <div class="service left-icon probootstrap-animate" data-animate-effect="fadeInLeft">
               <div class="icon"><i class="fas fa-laptop-code"></i></div>
               <div class="text">
-                <h3>Custom Panel</h3>
-                <p>One of the important things that we do is to create a custom panel for you. We customize the panels to your likings and preferences. </p>
+                <h3>Direct Admin</h3>
+                <p>DirectAdmin is a graphical web-based web hosting control panel. It's specifically designed simplify website administration. </p>
               </div>
             </div>
             

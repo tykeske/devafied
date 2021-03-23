@@ -265,7 +265,7 @@ Calibri;color:#595959;mso-themecolor:text1;mso-themetint:166;">In order to resol
       }
     </style>
       </div>
-
+          <a href="https://www.wizardnode.com/">Hosting provider terms & conditions.</a>
           </div>
     </section>   
 

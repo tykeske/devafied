@@ -135,6 +135,8 @@
     <Content Include="assets\img\tyler.jpg" />
     <Content Include="assets\img\wizardNode.png" />
     <Content Include="assets\img\wizardNode2.png" />
+    <Content Include="assets\img\wizardNode3.png" />
+    <Content Include="assets\img\wizardNode4.png" />
     <Content Include="assets\img\wiztest.png" />
     <Content Include="assets\img\work_1.jpg" />
     <Content Include="assets\img\work_2.jpg" />
