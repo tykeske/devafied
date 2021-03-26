@@ -1,10 +1,4 @@
-/*!==============================
- * Theme Name: Stack
- * Theme URL: https://probootstrap.com/stack-free-responsive-bootstrap-website-template
- * Author: ProBootstrap.com
- * Author URL: https://probootstrap.com
- * License: Released for free under the Creative Commons Attribution 3.0 license (probootstrap.com/license)
- */
+
 @import 'custom-settings';
 
 html {
@@ -16,9 +10,7 @@ body {
 	line-height: 28px;
 	font-size: 14px;
 	font-family: $font-primary;
-	// display: flex;
-}
-// Typography
+
 h1, h2, h3, h4, h5, h6 {
 	color: #181920;
 	line-height: 1.5;
@@ -89,7 +81,7 @@ a {
 		box-shadow: 0px 2px 10px 0px rgba(0,0,0,.2);
 	}
 
-	// animate hamburger menu
+
 	.navbar-toggle:focus,
 	.navbar-toggle:hover {
 		background-color: transparent;
@@ -124,7 +116,6 @@ a {
 	  opacity: 1;
 	}
 	
-	// nav link padding
 	.parent-nav-link-padding {
 		padding-top: 40px;
 		padding-bottom: 40px;
@@ -253,7 +244,7 @@ a {
 		@extend .parent-nav-link-padding;
 		font-size: 30px;
 		text-transform: uppercase;
-		background: url(../img/logo.png) no-repeat left center;
+		background: url(assets/img/devafiedLogo1.png) no-repeat left center;
 		top: 8px;
 		position: relative;
 		width: 160px;
@@ -266,7 +257,7 @@ a {
 			top: 2px!important;	
 		}
 		
-		// retina logo
+		
 		@media
 		only screen and (-webkit-min-device-pixel-ratio: 2),
 		only screen and (   min--moz-device-pixel-ratio: 2),
@@ -838,9 +829,7 @@ a {
 	}
 }
 
-// Components
 
-// Service
 .service {
 	margin-bottom: 30px;
 	float: left;
@@ -902,7 +891,7 @@ a {
 	}
 }
 
-// form
+
 .probootstrap-form {
 	margin-bottom: 50px;
 	label {
@@ -927,13 +916,12 @@ a {
 
 
 
-// animate
 .probootstrap-animate {
 	opacity: 0;
 	visibility: hidden;
 }
 
-// modal center
+
 .modal {
 	.modal-content {
 		box-shadow: none;	
@@ -1051,25 +1039,21 @@ a {
     display:table;
     height: 100%;
     width: 100%;
-    pointer-events:none; /* This makes sure that we can still click outside of the modal to close it */
+    pointer-events:none; 
 	}
 	.vertical-align-center {
-    /* To center vertically */
     display: table-cell;
     vertical-align: middle;
     pointer-events:none;
 	}
 	.modal-content {
-    /* Bootstrap sets the size of the modal in the modal-dialog class, we need to inherit it */
     width:inherit;
     height:inherit;
-    /* To center horizontally */
     margin: 0 auto;
     pointer-events: all;
 	}
 }
 
-// contact info
 .probootstrap-contact-info {
 	padding: 0;
 	margin: 0 0 30px 0;
@@ -1094,7 +1078,7 @@ a {
 	}
 }
 
-// team
+
 .probootstrap-team {
 	margin-bottom: 30px;
 	float: left;
@@ -1187,7 +1171,6 @@ a {
 	}
 }
 
-// probootstrap flexbox
 .probootstrap-flex-section {
 	padding: 7em 0;
 	&.probootstrap-bg-white {
@@ -1234,9 +1217,7 @@ a {
 	}
 }
 
-// pages
 
-// clients
 .proboostrap-clients {
 	.client-logo {
 		margin-bottom: 30px;
@@ -1246,7 +1227,7 @@ a {
 	}
 }
 
-// pricing
+
 .probootstrap-pricing-wrap {
 	position: relative;
 }
@@ -1315,7 +1296,6 @@ a {
 	}
 }
 
-// Testimonial
 .probootstrap-testimony-wrap {
 	border-radius: 4px;
 	padding: 20px;
@@ -1348,7 +1328,6 @@ a {
 
 }
 
-/* Flexslider override style */
 .slider-height {
 	height: 700px;
 	@media screen and (max-width: $screen-xs) {
