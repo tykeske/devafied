@@ -170,7 +170,7 @@
                 <br />
               <a href="tel:8036190143">(803)-619-0143</a>
               <ul class="probootstrap-footer-social">
-                <li><a href="https://www.youtube.com/watch?v=jAhrOA5MMPw"><i class="icon-twitter"></i></a></li>
+                <li><a href="https://twitter.com/DevafiedLLC"><i class="icon-twitter"></i></a></li>
                 <li><a href="https://www.facebook.com/Devafied"><i class="icon-facebook"></i></a></li>
                 <li><a href="https://www.instagram.com/devafied/"><i class="icon-instagram"></i></a></li>
               </ul>
